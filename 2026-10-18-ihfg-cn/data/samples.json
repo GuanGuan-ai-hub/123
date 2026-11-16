@@ -1,0 +1,111 @@
+[
+  {
+    "slug": "1-Bed-Room-Standard-15m2",
+    "name": "单人间病房 - 标准型 15m²",
+    "code": "1BR-ST-15-I",
+    "category": "住院",
+    "rds": {
+      "roomCode": "1BR-ST-15-I",
+      "netRoomArea": "15",
+      "hoursOfOperation": "24 小时",
+      "occupancy": "1 名患者;1-2 名医护;1-2 名探视者",
+      "description": "标准单人病房,满足基本住院护理需求。配置床头医疗带(氧气、负压吸引、电源)、可调节病床及陪护椅。演示样本数据,正式版请替换为自有版权内容。",
+      "amendments": [
+        { "date": "2026-10-01", "note": "演示版首次编制" }
+      ]
+    },
+    "finishes": [
+      { "id": "F-001", "fabric": "墙面防护", "material": "抗倍特板", "finish": "哑光饰面", "specification": "床头墙面防撞板", "selection": "", "remarks": "床头上方设置" },
+      { "id": "F-002", "fabric": "踢脚", "material": "PVC", "finish": "预饰面", "specification": "与地面卷材一体化卷边,高 150mm", "selection": "", "remarks": "" },
+      { "id": "F-003", "fabric": "地面", "material": "同质透心 PVC 卷材", "finish": "防滑 R10", "specification": "无缝焊接、卷边上墙", "selection": "", "remarks": "病房区统一做法" },
+      { "id": "F-004", "fabric": "墙面", "material": "乳胶漆", "finish": "可擦洗", "specification": "浅色抗菌涂料", "selection": "", "remarks": "" },
+      { "id": "F-005", "fabric": "天花", "material": "矿棉板/石膏板", "finish": "白色", "specification": "无影灯轨道预留位", "selection": "", "remarks": "无吊装设备时可用矿棉板" },
+      { "id": "F-006", "fabric": "门", "material": "实木复合", "finish": "抗菌漆面", "specification": "净宽 1000mm,带观察窗", "selection": "", "remarks": "" }
+    ],
+    "equipment": [
+      { "id": "E-001", "description": "电动护理床(三折)", "category": "医疗设备", "group": "1", "qty": "1", "remarks": "" },
+      { "id": "E-002", "description": "床头柜(带锁抽屉)", "category": "家具", "group": "1", "qty": "1", "remarks": "可移动式" },
+      { "id": "E-003", "description": "陪护椅(可展开为躺椅)", "category": "家具", "group": "1", "qty": "1", "remarks": "" },
+      { "id": "E-004", "description": "输液轨道吊架", "category": "金属构件", "group": "1", "qty": "1", "remarks": "沿床位长度方向" },
+      { "id": "E-005", "description": "氧气终端", "category": "医疗设备", "group": "1", "qty": "1", "remarks": "床头医疗带" },
+      { "id": "E-006", "description": "负压吸引终端", "category": "医疗设备", "group": "1", "qty": "1", "remarks": "床头医疗带" },
+      { "id": "E-007", "description": "免洗手消毒液出液器", "category": "固定装置", "group": "1", "qty": "1", "remarks": "入口内侧墙面" },
+      { "id": "E-008", "description": "信息插座与床头呼叫分机", "category": "弱电", "group": "1", "qty": "1", "remarks": "" }
+    ],
+    "files": [
+      { "kind": "editor", "title": "在线简报编辑", "description": "在本站在线编辑系统中调整该房间简报数据", "price": "订阅" },
+      { "kind": "pdf", "title": "房间布局图(RLS)", "description": "查看/下载本房间标准布局图 PDF", "price": "免费" },
+      { "kind": "revit", "title": "可编辑 Revit 布局图", "description": "购买可编辑的 Revit 格式房间布局图", "price": "¥399" }
+    ]
+  },
+  {
+    "slug": "Operating-Room-General",
+    "name": "手术室 - 综合型",
+    "code": "OR-GN-I",
+    "category": "手术",
+    "rds": {
+      "roomCode": "OR-GN-I",
+      "netRoomArea": "42",
+      "hoursOfOperation": "24 小时(预约排程)",
+      "occupancy": "手术团队 5-8 人",
+      "description": "综合手术室,支持普外、骨科等常规三类手术。洁净等级 ISO 7(万级),维持正压。演示样本数据。",
+      "amendments": [
+        { "date": "2026-10-01", "note": "演示版首次编制" }
+      ]
+    },
+    "finishes": [
+      { "id": "F-101", "fabric": "墙面", "material": "电解钢板/不锈钢板", "finish": "抗菌涂层", "specification": "圆弧转角,无阴角积尘", "selection": "", "remarks": "" },
+      { "id": "F-102", "fabric": "地面", "material": "同质透心 PVC 卷材", "finish": "防滑导电", "specification": "导电、无缝焊接", "selection": "", "remarks": "防静电要求" },
+      { "id": "F-103", "fabric": "天花", "material": "电解钢板吊顶", "finish": "抗菌涂层", "specification": "集成无影灯基座与层流送风天花", "selection": "", "remarks": "" },
+      { "id": "F-104", "fabric": "观察窗", "material": "安全玻璃", "finish": "双层中空", "specification": "门高观察窗,位于麻醉/巡回侧", "selection": "", "remarks": "" }
+    ],
+    "equipment": [
+      { "id": "E-101", "description": "综合手术床(电动)", "category": "医疗设备", "group": "1", "qty": "1", "remarks": "" },
+      { "id": "E-102", "description": "无影灯(子母式)", "category": "医疗设备", "group": "1", "qty": "1", "remarks": "天花吊装" },
+      { "id": "E-103", "description": "医用吊塔(麻醉机塔/外科塔)", "category": "医疗设备", "group": "1", "qty": "2", "remarks": "含气体终端与电源" },
+      { "id": "E-104", "description": "麻醉机", "category": "医疗设备", "group": "1", "qty": "1", "remarks": "" },
+      { "id": "E-105", "description": "高频电刀", "category": "医疗设备", "group": "1", "qty": "1", "remarks": "" },
+      { "id": "E-106", "description": "器械台/托盘", "category": "金属构件", "group": "1", "qty": "4", "remarks": "" },
+      { "id": "E-107", "description": "观片灯/医用显示器", "category": "医疗设备", "group": "1", "qty": "2", "remarks": "" },
+      { "id": "E-108", "description": "计时器(手术/麻醉双计时)", "category": "固定装置", "group": "1", "qty": "1", "remarks": "" }
+    ],
+    "files": [
+      { "kind": "editor", "title": "在线简报编辑", "description": "在本站在线编辑系统中调整该房间简报数据", "price": "订阅" },
+      { "kind": "pdf", "title": "房间布局图(RLS)", "description": "查看/下载本房间标准布局图 PDF", "price": "免费" },
+      { "kind": "revit", "title": "可编辑 Revit 布局图", "description": "购买可编辑的 Revit 格式房间布局图", "price": "¥399" }
+    ]
+  },
+  {
+    "slug": "Consult-Exam-Room",
+    "name": "诊察室",
+    "code": "CONS-I",
+    "category": "门诊",
+    "rds": {
+      "roomCode": "CONS-I",
+      "netRoomArea": "13",
+      "hoursOfOperation": "日间(预约+现场)",
+      "occupancy": "1 名医生;1 名患者;1-2 名陪同",
+      "description": "门诊诊察室,支持问诊与基础查体。配置诊桌、诊察床、洗手池。演示样本数据。",
+      "amendments": [
+        { "date": "2026-10-01", "note": "演示版首次编制" }
+      ]
+    },
+    "finishes": [
+      { "id": "F-201", "fabric": "地面", "material": "同质透心 PVC 卷材", "finish": "防滑 R9", "specification": "无缝焊接", "selection": "", "remarks": "" },
+      { "id": "F-202", "fabric": "墙面", "material": "乳胶漆", "finish": "可擦洗", "specification": "诊察床区域设防撞带", "selection": "", "remarks": "" },
+      { "id": "F-203", "fabric": "洗手池", "material": "陶瓷", "finish": "釉面", "specification": "感应出水,嵌墙安装", "selection": "", "remarks": "感控要求" }
+    ],
+    "equipment": [
+      { "id": "E-201", "description": "诊桌(含读片灯位)", "category": "家具", "group": "1", "qty": "1", "remarks": "" },
+      { "id": "E-202", "description": "医生座椅/患者座椅", "category": "家具", "group": "1", "qty": "3", "remarks": "" },
+      { "id": "E-203", "description": "诊察床(带屏风帘)", "category": "家具", "group": "1", "qty": "1", "remarks": "轨道隔帘" },
+      { "id": "E-204", "description": "电脑工作台与工作站", "category": "弱电", "group": "1", "qty": "1", "remarks": "电子病历" },
+      { "id": "E-205", "description": "免洗手消毒液出液器", "category": "固定装置", "group": "1", "qty": "1", "remarks": "洗手池旁" }
+    ],
+    "files": [
+      { "kind": "editor", "title": "在线简报编辑", "description": "在本站在线编辑系统中调整该房间简报数据", "price": "订阅" },
+      { "kind": "pdf", "title": "房间布局图(RLS)", "description": "查看/下载本房间标准布局图 PDF", "price": "免费" },
+      { "kind": "revit", "title": "可编辑 Revit 布局图", "description": "购买可编辑的 Revit 格式房间布局图", "price": "¥399" }
+    ]
+  }
+]

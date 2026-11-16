@@ -1,0 +1,55 @@
+# ============================================================
+# 医疗设施标准指南逆向项目 - 根级 .gitignore
+# 注意:子目录 2026-10-18-ihfg-cn/.gitignore 负责复刻站自身规则
+# ============================================================
+
+# ---- 依赖 ----
+node_modules/
+
+# ---- 构建产物 ----
+.next/
+out/
+out.bak/
+.next.bak*/
+build/
+dist/
+
+# ---- 运行时数据(含用户信息,永不入库)----
+.server-data/
+
+# ---- 敏感/版权文件(公开仓库,永不入库;本地保留用于内部分析)----
+# 原站全量抓取(TAHPI 版权)
+raw/
+# 全量 RDS 结构化数据(TAHPI 版权);复刻站内同名文件同规则
+data/2026-10-18-rds-database.json
+2026-10-18-ihfg-cn/data/rds-database.json
+# 原站基准截图(屏幕呈现原站页面)
+assets/2026-10-18-screenshot-list.png
+assets/2026-10-18-screenshot-itemdetail.png
+# 抓取失败清单(raw/ 已整体排除,此处兜底)
+fetch-failures*.json
+
+# ---- 环境变量 ----
+.env
+.env.*
+!.env.example
+
+# ---- 编辑器/系统 ----
+.DS_Store
+Thumbs.db
+desktop.ini
+*.pem
+*.tsbuildinfo
+
+# ---- 日志 ----
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# ---- 测试/覆盖率 ----
+coverage/
+
+# ---- Vercel ----
+.vercel

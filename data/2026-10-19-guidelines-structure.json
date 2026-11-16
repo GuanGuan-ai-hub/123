@@ -1,0 +1,279 @@
+[
+  {
+    "part": "Access-Mobility-OH-S",
+    "title": "Access, Mobility, OH&S",
+    "tableCount": 2,
+    "pdfIndexCount": 9,
+    "completePdf": "iHFG_part_c_complete",
+    "pdfSlugs": [
+      "iHFG_part_c_complete",
+      "iHFG_part_c_space_standards_dimensions",
+      "iHFG_part_c_human_engineering",
+      "iHFG_part_c_ergonomics",
+      "iHFG_part_c_signage",
+      "iHFG_part_c_doors",
+      "iHFG_part_c_grab_rails",
+      "iHFG_part_c_windows",
+      "iHFG_part_c_floors"
+    ],
+    "chapterNames": [
+      "View"
+    ]
+  },
+  {
+    "part": "Acoustics",
+    "title": "Acoustics",
+    "tableCount": 2,
+    "pdfIndexCount": 21,
+    "completePdf": "iHFG_part_G_complete",
+    "pdfSlugs": [
+      "iHFG_part_G_complete",
+      "iHFG_part_G_introduction",
+      "iHFG_part_G_disclaimer",
+      "iHFG_part_G_acoustic_criteria",
+      "iHFG_part_G_architectural_acoustics",
+      "iHFG_part_G_room_acoustics",
+      "iHFG_part_G_building_services_noise_vibration_transmission_control",
+      "iHFG_part_G_vibration_management",
+      "iHFG_part_G_acoustic_design_for_electrical_outlets",
+      "iHFG_part_G_testing_on_completion",
+      "iHFG_part_G_construction_noise_and_vibration",
+      "iHFG_part_G_temporary_healthcare_facilities",
+      "iHFG_part_G_refurbrishment_works",
+      "iHFG_part_G_inspection_during_construction_stage",
+      "iHFG_part_G_appendix%20A",
+      "iHFG_part_G_appendix%20B",
+      "iHFG_part_G_appendix%20C",
+      "iHFG_part_G_appendix%20D",
+      "iHFG_part_G_appendix%20E",
+      "iHFG_part_G_appendix%20F",
+      "iHFG_part_G_appendix%20G"
+    ],
+    "chapterNames": [
+      "View"
+    ]
+  },
+  {
+    "part": "Administrative-Provisions",
+    "title": "Administrative Provisions",
+    "tableCount": 2,
+    "pdfIndexCount": 22,
+    "completePdf": "iHFG_part_a_complete",
+    "pdfSlugs": [
+      "iHFG_part_a_complete",
+      "iHFG_part_a_introduction",
+      "iHFG_part_a_approval_process",
+      "iHFG_part_a_prequalification_process",
+      "iHFG_part_a_terms_abbreviations",
+      "Appendix%2001%20-%20Health%20Facility%20Registration%20Form",
+      "Appendix%2002%20-%20Registration%20Approval%20Form",
+      "Appendix%2003%20-Schematic%20Submission%20Registration%20Form",
+      "Appendix%2004%20-%20Schematic%20Submission%20Approval%20Form",
+      "Appendix%2005%20-%20Detailed%20Submission%20Registration%20Form",
+      "Appendix%2006%20-%20Detailed%20Submission%20Approval%20Form",
+      "Appendix%2007%20-%20Request%20for%20Inspection%20Form",
+      "Appendix%2008%20-%20Deliverables%20-%20Schematic%20Submission",
+      "Appendix%2009%20-%20Deliverables%20-%20Detailed%20Submission",
+      "Appendix%2010%20-%20Consultants%20Pre-Qualification%20Application%20Form",
+      "Appendix%2011%20-%20Template%20for%20Non-Compliance%20Report",
+      "Appendix%2013%20-%20Template%20for%20RDL%20Project%20Matrix",
+      "Appendix%2014%20-%20Sample%20Assessment%20Report",
+      "Appendix%2015%20-%20Sample%20Drawing%20for%20Schematic%20Submission",
+      "Appendix%2016%20-%20Sample%20Drawing%20for%20Detailed%20Submission",
+      "Appendix%2017%20-%20Health%20Facility%20Design%20Review%20Checklist",
+      "Appendix%2018%20-%20Health%20Facility%20Inspection%20Checklist"
+    ],
+    "chapterNames": [
+      "View"
+    ]
+  },
+  {
+    "part": "Engineering-Services-and-Environmental-Design",
+    "title": "Engineering Services and Environmental Design",
+    "tableCount": 2,
+    "pdfIndexCount": 13,
+    "completePdf": "iHFG_part_e_complete",
+    "pdfSlugs": [
+      "iHFG_part_e_complete",
+      "Introduction",
+      "Mechanical_HVAC_Engineering_Design",
+      "Electrical_Services",
+      "ELV_and_ICT_systems",
+      "Public_Health_Water_Systems_Design_WS",
+      "Public_Health_Sanitary_Drainage_System_Design_DS",
+      "Public_Health_Medical_Gas_System_Design_MGS",
+      "Public_Health_Fuel_Systems_Design_FS",
+      "Public_Health_Pneumatic_Tube_System_Design_PTS",
+      "Fire_Protection_FP_Special_Areas_Design",
+      "Vertical_Transportation_System",
+      "Annexures"
+    ],
+    "chapterNames": [
+      "View"
+    ]
+  },
+  {
+    "part": "Equipment-Planning-Guidelines",
+    "title": "Equipment Planning Guidelines",
+    "tableCount": 2,
+    "pdfIndexCount": 4,
+    "completePdf": "iHFG_part_q_complete",
+    "pdfSlugs": [
+      "iHFG_part_q_complete",
+      "iHFG_part_q_1-preface_-_introduction",
+      "iHFG_part_q_2-equipment_planning",
+      "iHFG_part_q_3-tools-checklist"
+    ],
+    "chapterNames": [
+      "View"
+    ]
+  },
+  {
+    "part": "Feasibility-Planning-Costing-Guidelines",
+    "title": "Feasibility Planning & Costing Guidelines",
+    "tableCount": 2,
+    "pdfIndexCount": 5,
+    "completePdf": "iHFG_part_f_complete",
+    "pdfSlugs": [
+      "iHFG_part_f_complete",
+      "iHFG_part_f_1-introduction",
+      "iHFG_part_f_2-feasibility_planning",
+      "iHFG_part_f_3-structure_and_methodology",
+      "iHFG_part_f_4-appendices"
+    ],
+    "chapterNames": [
+      "View"
+    ]
+  },
+  {
+    "part": "Health-Facility-Briefing-and-Design",
+    "title": "Health Facility Briefing and Design",
+    "tableCount": 3,
+    "pdfIndexCount": 70,
+    "completePdf": "iHFG_part_b_complete",
+    "pdfSlugs": [
+      "iHFG_part_b_complete",
+      "iHFG_part_b_FPU_planning_preliminaries",
+      "iHFG_part_b_role_delineation_guide",
+      "iHFG_part_b_project_briefing",
+      "iHFG_part_b_planning",
+      "iHFG_part_b_acceptable_standards_guidelines",
+      "iHFG_part_b_role_delineation_level_guide",
+      "iHFG_part_b_administration",
+      "iHFG_part_b_admissions_unit-discharge",
+      "iHFG_part_b_adult_cardiac_surgery_unit",
+      "iHFG_part_b_bone_marrow_transplant_unit",
+      "iHFG_part_b_birthing_unit",
+      "iHFG_part_b_burns_unit",
+      "iHFG_part_b_cardiac_investigation_unit",
+      "iHFG_part_b_catering_unit",
+      "iHFG_part_b_clinical_information_unit",
+      "iHFG_part_b_community_health_unit",
+      "iHFG_part_b_complementary_alternative_medicine_centre",
+      "iHFG_part_b_coronary_care_unit",
+      "iHFG_part_b_day_surgery-procedure_unit",
+      "iHFG_part_b_decontamination_unit",
+      "iHFG_part_b_dental_surgery_unit",
+      "iHFG_part_b_emergency_unit",
+      "iHFG_part_b_endoscopy_unit",
+      "iHFG_part_b_engineering-maintenance_unit",
+      "iHFG_part_b_education_unit",
+      "iHFG_part_b_housekeeping_unit",
+      "iHFG_part_b_high_dependency_unit",
+      "iHFG_part_b_hyperbaric_unit",
+      "iHFG_part_b_inpatient_unit_bariatric",
+      "iHFG_part_b_inpatient_unit_general",
+      "iHFG_part_b_ipu_rehabilitation_unit",
+      "iHFG_part_b_inpatient_unit_paediatric",
+      "iHFG_part_b_inpatient_maternity_unit",
+      "iHFG_part_b_long_term_care",
+      "iHFG_part_b_intensive_care_unit_general",
+      "iHFG_part_b_icu_neonatal",
+      "iHFG_part_b_IVF_unit",
+      "iHFG_part_b_laboratory_unit",
+      "iHFG_part_b_linen_handling_unit",
+      "iHFG_part_b_main_entrance_unit",
+      "iHFG_part_b_nuclear_medicine_unit",
+      "iHFG_part_b_nursing_home_unit",
+      "iHFG_part_b_medical_imaging_general",
+      "iHFG_part_b_mental_health_unit_adult",
+      "iHFG_part_b_mental_health_unit_child-adolescent",
+      "iHFG_part_b_mental_health_unit_older_persons",
+      "iHFG_part_b_mental_health_outpatients",
+      "iHFG_part_b_mobile_healthcare_unit",
+      "iHFG_part_b_mortuary_general",
+      "iHFG_part_b_oncology_medical_chemotherapy",
+      "iHFG_part_b_oncology_unit_proton_therapy",
+      "iHFG_part_b_oncology_radiation",
+      "iHFG_part_b_operating_unit",
+      "iHFG_part_b_outpatients_unit",
+      "iHFG_part_b_paediatric_cardiac_surgery_unit",
+      "iHFG_part_b_pharmacy_unit",
+      "iHFG_part_b_pharmaceutical_factories",
+      "iHFG_part_b_public-staff_amenities_unit",
+      "iHFG_part_b_rehabilitation_allied_health",
+      "iHFG_part_b_renal_dialysis_unit",
+      "iHFG_part_b_sleep_lab_unit",
+      "iHFG_part_b_stem_cell_unit",
+      "iHFG_part_b_sterile_supply",
+      "iHFG_part_b_stroke_centre",
+      "iHFG_part_b_sub_acute_aged_care_unit",
+      "iHFG_part_b_super_isolation_unit",
+      "iHFG_part_b_supply_unit",
+      "iHFG_part_b_trauma_unit",
+      "iHFG_part_b_waste_management_unit"
+    ],
+    "chapterNames": [
+      "View"
+    ]
+  },
+  {
+    "part": "Health-Service-Planning",
+    "title": "Health Service Planning",
+    "tableCount": 2,
+    "pdfIndexCount": 3,
+    "completePdf": "iHFG_part_s_complete",
+    "pdfSlugs": [
+      "iHFG_part_s_complete",
+      "iHFG_part_s_planning_process",
+      "iHFG_part_s_service_plan_development"
+    ],
+    "chapterNames": [
+      "View"
+    ]
+  },
+  {
+    "part": "Infection-Control",
+    "title": "Infection Control",
+    "tableCount": 2,
+    "pdfIndexCount": 7,
+    "completePdf": "iHFG_part_d_complete",
+    "pdfSlugs": [
+      "iHFG_part_d_complete",
+      "iHFG_part_d_general_requirements",
+      "iHFG_part_d_hand_hygiene",
+      "iHFG_part_d_potential_infection_sources",
+      "iHFG_part_d_isolation_rooms",
+      "iHFG_part_d_surfaces_finishes",
+      "iHFG_part_d_construction_renovation"
+    ],
+    "chapterNames": [
+      "View"
+    ]
+  },
+  {
+    "part": "Wayfinding-Guidelines",
+    "title": "Wayfinding Guidelines",
+    "tableCount": 2,
+    "pdfIndexCount": 3,
+    "completePdf": "iHFG_part_w_wayfinding_complete",
+    "pdfSlugs": [
+      "iHFG_part_w_wayfinding_complete",
+      "iHFG_part_w_wayfinding_introduction",
+      "iHFG_part_w_wayfinding_design_principles"
+    ],
+    "chapterNames": [
+      "View"
+    ]
+  }
+]

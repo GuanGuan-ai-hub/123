@@ -1,0 +1,12 @@
+[
+  { "slug": "Administrative-Provisions", "letter": "A", "name": "行政管理条款", "desc": "医院规划建设的管理框架、审批流程与法规要求" },
+  { "slug": "Health-Facility-Briefing-and-Design", "letter": "B", "name": "医疗设施任务书与设计", "desc": "核心分册:功能规划单元(FPU)与标准组件(SC)体系、角色分级、设计标准" },
+  { "slug": "Access-Mobility-OH-S", "letter": "C", "name": "无障碍、通行与职业健康安全", "desc": "无障碍设计、人员通行与施工运维安全要求" },
+  { "slug": "Infection-Control", "letter": "D", "name": "感染控制", "desc": "院感防控分区、气流组织与隔离要求" },
+  { "slug": "Engineering-Services-and-Environmental-Design", "letter": "E", "name": "工程机电与环境设计", "desc": "暖通、给排水、电气、医用气体等机电系统设计标准" },
+  { "slug": "Feasibility-Planning-Costing-Guidelines", "letter": "F", "name": "可行性规划与造价指南", "desc": "项目可行性论证、面积配比与造价测算方法" },
+  { "slug": "Acoustics", "letter": "G", "name": "声学", "desc": "医疗建筑声环境与降噪设计要求" },
+  { "slug": "Equipment-Planning-Guidelines", "letter": "Q", "name": "设备规划指南", "desc": "医疗设备选型、配置与空间预留要求" },
+  { "slug": "Health-Service-Planning", "letter": "S", "name": "医疗服务规划", "desc": "服务需求测算、科室规模与床位规划方法" },
+  { "slug": "Wayfinding-Guidelines", "letter": "W", "name": "导视标识指南", "desc": "院内导视系统与标识设计标准" }
+]

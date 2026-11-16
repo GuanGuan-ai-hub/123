@@ -1,0 +1,3037 @@
+[
+  {
+    "slug": "1-Bed-Room-Bariatric-20m2",
+    "name": "1 Bed Room - Bariatric, 20m2",
+    "code": "1BR-BA-20-I"
+  },
+  {
+    "slug": "1-Bed-Room-Standard-15m2-",
+    "name": "1 Bed Room - Standard, 15m2",
+    "code": "1BR-ST-15-I"
+  },
+  {
+    "slug": "1-Bed-Room-Standard-16-5m2-",
+    "name": "1 Bed Room - Standard, 16.5m2",
+    "code": "1BR-ST-16.5-I"
+  },
+  {
+    "slug": "1-Bed-Room-Standard-18m2-",
+    "name": "1 Bed Room - Standard, 18m2",
+    "code": "1BR-ST-18-I"
+  },
+  {
+    "slug": "1-Bed-Room-Large-30m2",
+    "name": "1 Bed Room - Large, 30m2",
+    "code": "1BR-LG-30-I"
+  },
+  {
+    "slug": "1-Bed-Room-Isolation-Positive-Pressure-18m2-",
+    "name": "1 Bed Room - Isolation - Positive Pressure, 18m2",
+    "code": "1BR-IS-P-18-I"
+  },
+  {
+    "slug": "1-Bed-Room-Isolation-Positive-Pressure-28m2-",
+    "name": "1 Bed Room - Isolation - Positive Pressure, 28m2",
+    "code": "1BR-IS-P-28-I"
+  },
+  {
+    "slug": "1-Bed-Room-Isolation-Negative-Pressure-18m2",
+    "name": "1 Bed Room - Isolation - Negative Pressure, 18m2",
+    "code": "1BR-IS-N-18-I"
+  },
+  {
+    "slug": "1-Bed-Room-Isolation-Negative-Pressure-28m2",
+    "name": "1 Bed Room - Isolation - Negative Pressure, 28m2",
+    "code": "1BR-IS-N-28-I"
+  },
+  {
+    "slug": "1-Bed-Room-Mental-Health-20m2-",
+    "name": "1 Bed Room - Mental Health, 20m2",
+    "code": "1BR-MH-20-I"
+  },
+  {
+    "slug": "1-Bed-Room-Mental-Health-25m2",
+    "name": "1 Bed Room - Mental Health, 25m2",
+    "code": "1BR-MH-25-I"
+  },
+  {
+    "slug": "1-Bed-Room-Special-18m2",
+    "name": "1 Bed Room - Special, 18m2",
+    "code": "1BR-SP-18-I"
+  },
+  {
+    "slug": "1-Bed-Room-Special-30m2",
+    "name": "1 Bed Room - Special, 30m2",
+    "code": "1BR-SP-A-30-I"
+  },
+  {
+    "slug": "1-Bed-Room-Special-CCU-20m2-",
+    "name": "1 Bed Room - Special, CCU, 20m2",
+    "code": "1BR-CCU-20-I"
+  },
+  {
+    "slug": "1-Bed-Room-Special-CCU-25m2-",
+    "name": "1 Bed Room - Special, CCU, 25m2",
+    "code": "1BR-CCU-25-I"
+  },
+  {
+    "slug": "1-Bed-Room-Special-CCU-30m2-",
+    "name": "1 Bed Room - Special, CCU, 30m2",
+    "code": "1BR-CCU-30-I"
+  },
+  {
+    "slug": "1-Bed-Room-High-Dependency-20m2-",
+    "name": "1 Bed Room - High Dependency, 20m2",
+    "code": "1BR-HDU-20-I"
+  },
+  {
+    "slug": "1-Bed-Room-Intensive-Care-25m2-",
+    "name": "1 Bed Room - Intensive Care, 25m2",
+    "code": "1BR-ICU-25-I"
+  },
+  {
+    "slug": "1-Bed-Room-Super-VIP-53m2",
+    "name": "1 Bed Room - Super VIP, 53m2",
+    "code": "1BR-SVIP-53-I"
+  },
+  {
+    "slug": "1-Bed-Room-Standard-30m2-provision-for-2-",
+    "name": "1 Bed Room - Standard, 30m2 (provision for 2)",
+    "code": "1BR-ST-2P-30-I"
+  },
+  {
+    "slug": "1-Bed-Room-Isolation-Negative-Pressure-30m2-",
+    "name": "1 Bed Room - Isolation - Negative Pressure, 30m2",
+    "code": "1BR-IS-N-30-I"
+  },
+  {
+    "slug": "1-Bed-Room-Isolation-Positive-Pressure-30m2",
+    "name": "1 Bed Room - Isolation - Positive Pressure, 30m2",
+    "code": "1BR-IS-P-30-I"
+  },
+  {
+    "slug": "1-Bed-Room-Standard-30m2",
+    "name": "1 Bed Room - Standard, 30m2",
+    "code": "1BR-ST-30-I"
+  },
+  {
+    "slug": "1-Bed-Room-VIP-36m2",
+    "name": "1 Bed Room - VIP, 36m2",
+    "code": "1BR-VIP-36-I"
+  },
+  {
+    "slug": "1-Bed-Room-VIP-28m2",
+    "name": "1 Bed Room - VIP, 28m2",
+    "code": "1BR-VIP-28-I"
+  },
+  {
+    "slug": "1-Bed-Room-Intensive-Care-Isolation-Negative-Pressure-25m2",
+    "name": "1 Bed Room - Intensive Care, Isolation - Negative Pressure, 25m2",
+    "code": "1BR-ICU-IS-N-25-I"
+  },
+  {
+    "slug": "1-Bed-Room-Intensive-Care-Water-Treatment-25m2",
+    "name": "1 Bed Room - Intensive Care, Water Treatment, 25m2",
+    "code": "1BR-ICU-WT-25-I"
+  },
+  {
+    "slug": "1-Bed-Room-Paediatric-22m2",
+    "name": "1 Bed Room - Paediatric, 22m2",
+    "code": "1BR-PAED-22-I"
+  },
+  {
+    "slug": "2-Bed-Room-Standard-25m2",
+    "name": "2 Bed Room - Standard, 25m2",
+    "code": "2BR-ST-25-I"
+  },
+  {
+    "slug": "2-Bed-Room-Standard-30m2-",
+    "name": "2 Bed Room - Standard, 30m2",
+    "code": "2BR-ST-30-I"
+  },
+  {
+    "slug": "2-Bed-Room-Mental-Health-32m2-",
+    "name": "2 Bed Room - Mental Health, 32m2",
+    "code": "2BR-MH-32-I"
+  },
+  {
+    "slug": "3-Bed-Room-Standard-54m2-",
+    "name": "3 Bed Room - Standard, 54m2",
+    "code": "3BR-ST-54-I"
+  },
+  {
+    "slug": "4-Bed-Room-Standard-42m2",
+    "name": "4 Bed Room - Standard, 42m2",
+    "code": "4BR-ST-42-I"
+  },
+  {
+    "slug": "4-Bed-Room-Standard-49m2",
+    "name": "4 Bed Room - Standard, 49m2",
+    "code": "4BR-ST-49-I"
+  },
+  {
+    "slug": "5-Bed-Room-Standard-69m2-",
+    "name": "5 Bed Room - Standard, 69m2",
+    "code": "5BR-ST-69-I"
+  },
+  {
+    "slug": "6-Bed-Room-Standard-44m2",
+    "name": "6 Bed Room - Standard, 44m2",
+    "code": "6BR-ST-44-I"
+  },
+  {
+    "slug": "6-Bed-Room-Standard-75m2",
+    "name": "6 Bed Room - Standard, 75m2",
+    "code": "6BR-ST-75-I"
+  },
+  {
+    "slug": "4-Bed-Room-Standard-60m2-",
+    "name": "4 Bed Room - Standard, 60m2",
+    "code": "4BR-ST-60-I"
+  },
+  {
+    "slug": "Ablution-Room-Prayer-Room-",
+    "name": "Ablution Room (Prayer Room)",
+    "code": "ABLU-I"
+  },
+  {
+    "slug": "ADL-Bathroom-",
+    "name": "ADL Bathroom",
+    "code": "ADLB-I"
+  },
+  {
+    "slug": "ADL-Bedroom-",
+    "name": "ADL Bedroom",
+    "code": "ADLBR-I"
+  },
+  {
+    "slug": "ADL-Dining-Room-",
+    "name": "ADL Dining Room",
+    "code": "ADLD-I"
+  },
+  {
+    "slug": "ADL-Kitchen-Enclosed-",
+    "name": "ADL Kitchen - Enclosed",
+    "code": "ADLK-ENC-I"
+  },
+  {
+    "slug": "ADL-Laundry-8m2-",
+    "name": "ADL Laundry, 8m2",
+    "code": "ADLL-8-I"
+  },
+  {
+    "slug": "ADL-Kitchen-Open-Bay",
+    "name": "ADL Kitchen - Open Bay",
+    "code": "ADLK-OP-I"
+  },
+  {
+    "slug": "ADL-Lounge-",
+    "name": "ADL Lounge",
+    "code": "ADLN-I"
+  },
+  {
+    "slug": "After-Hours-Drug-Store-4m2-",
+    "name": "After Hours Drug Store, 4m2",
+    "code": "AHDR-4-I"
+  },
+  {
+    "slug": "After-Hours-Blood-Fridge",
+    "name": "After Hours Blood Fridge",
+    "code": "AHBBF-I"
+  },
+  {
+    "slug": "Airlock-6m2-",
+    "name": "Airlock, 6m2",
+    "code": "AIRL-6-I"
+  },
+  {
+    "slug": "Airlock-Entry-6m2-",
+    "name": "Airlock - Entry, 6m2",
+    "code": "AIRLE-6-I"
+  },
+  {
+    "slug": "Airlock-Entry-10m2-",
+    "name": "Airlock - Entry, 10m2",
+    "code": "AIRLE-10-I"
+  },
+  {
+    "slug": "Airlock-Entry-12m2",
+    "name": "Airlock - Entry, 12m2",
+    "code": "AIRLE-12-I"
+  },
+  {
+    "slug": "Ambulance-Triage-",
+    "name": "Ambulance Triage",
+    "code": "AMBTR-I"
+  },
+  {
+    "slug": "Anaesthetic-Induction-Room",
+    "name": "Anaesthetic Induction Room",
+    "code": "ANIN-I"
+  },
+  {
+    "slug": "Anaesthetic-Store",
+    "name": "Anaesthetic Store",
+    "code": "ANST-I"
+  },
+  {
+    "slug": "Anaesthetic-Workroom-",
+    "name": "Anaesthetic Workroom",
+    "code": "ANWM-I"
+  },
+  {
+    "slug": "Angiography-Procedure-Room",
+    "name": "Angiography Procedure Room",
+    "code": "ANPR-I"
+  },
+  {
+    "slug": "Angiography-Control-Reporting-Room-",
+    "name": "Angiography Control/ Reporting Room",
+    "code": "ANCRT-I"
+  },
+  {
+    "slug": "Anteroom",
+    "name": "Anteroom",
+    "code": "ANRM-I"
+  },
+  {
+    "slug": "Angiography-Sterile-Store-Set-up-",
+    "name": "Angiography Sterile Store/ Set-up",
+    "code": "ANSS-I"
+  },
+  {
+    "slug": "Assembly-Collation-Coding-35m2-",
+    "name": "Assembly/ Collation/ Coding, 35m2",
+    "code": "ASSCO-I"
+  },
+  {
+    "slug": "Angiography-Procedure-Room-60m2",
+    "name": "Angiography Procedure Room, 60m2",
+    "code": "ANPR-60-I"
+  },
+  {
+    "slug": "Aseptic-Clean-Room",
+    "name": "Aseptic Clean Room",
+    "code": "PREP-IV-I"
+  },
+  {
+    "slug": "Dental-Imaging-Room",
+    "name": "Dental Imaging Room",
+    "code": "DENI-16-I"
+  },
+  {
+    "slug": "Laser-Imager-",
+    "name": "Laser Imager",
+    "code": "LASI-I"
+  },
+  {
+    "slug": "Dining-Room-Mental-Health-",
+    "name": "Dining Room (Mental Health)",
+    "code": "DINMH-I"
+  },
+  {
+    "slug": "Goods-Receipt-Pharmacy-20m2-",
+    "name": "Goods Receipt - Pharmacy, 20m2",
+    "code": "GRE-20-I"
+  },
+  {
+    "slug": "Computer-Equipment-Room-12m2-",
+    "name": "Computer Equipment Room,12m2",
+    "code": "COEQ-12-I"
+  },
+  {
+    "slug": "Command-Center-",
+    "name": "Command Center",
+    "code": "COMC-30-I"
+  },
+  {
+    "slug": "Communications-Room-Server-",
+    "name": "Communications Room - Server",
+    "code": "COMM-S-I"
+  },
+  {
+    "slug": "Viewing-and-Reporting-16m2-",
+    "name": "Viewing and Reporting, 16m2",
+    "code": "VR-16-I"
+  },
+  {
+    "slug": "1-Bed-Room-Bariatric-30m2-",
+    "name": "1 Bed Room - Bariatric, 30m2",
+    "code": "1BR-BA-30-I"
+  },
+  {
+    "slug": "Holding-Room-Bodies-",
+    "name": "Holding Room (Bodies)",
+    "code": "BODY-H-I"
+  },
+  {
+    "slug": "Clean-Utility-10m2-",
+    "name": "Clean Utility, 10m2",
+    "code": "CLUR-10-I"
+  },
+  {
+    "slug": "Interview-Cubicle",
+    "name": "Interview - Cubicle",
+    "code": "INTC-I"
+  },
+  {
+    "slug": "Interview-Room-Small",
+    "name": "Interview Room - Small",
+    "code": "INTS-I"
+  },
+  {
+    "slug": "Mortuary-Autopsy-Room-",
+    "name": "Mortuary - Autopsy Room",
+    "code": "MOR-AU-I"
+  },
+  {
+    "slug": "Patient-Bay-High-Dependency-16m2-",
+    "name": "Patient Bay - High Dependency, 16m2",
+    "code": "PB-HDU-16-I"
+  },
+  {
+    "slug": "Patient-Bay-High-Dependency-24m2-",
+    "name": "Patient Bay - High Dependency, 24m2",
+    "code": "PB-HDU-24-I"
+  },
+  {
+    "slug": "Patient-Bay-Enclosed-Isolation-Negative-Pressure-",
+    "name": "Patient Bay - Enclosed, Isolation - Negative Pressure",
+    "code": "PBHE-IS-N-I"
+  },
+  {
+    "slug": "Patient-Bay-Enclosed-Isolation-Positive-Pressure-",
+    "name": "Patient Bay - Enclosed, Isolation - Positive Pressure",
+    "code": "PBHE-IS-P-I"
+  },
+  {
+    "slug": "Patient-Bay-Recovery-Stage-2-12m2-",
+    "name": "Patient Bay - Recovery Stage 2, 12m2",
+    "code": "PBTR-RS2-12-I"
+  },
+  {
+    "slug": "Triage-Nurse-",
+    "name": "Triage - Nurse",
+    "code": "RECE-I"
+  },
+  {
+    "slug": "Reception-Clerical-5m2-",
+    "name": "Reception/ Clerical, 5m2",
+    "code": "RECL-5-I"
+  },
+  {
+    "slug": "Respiratory-Biomedical-Workroom",
+    "name": "Respiratory/ Biomedical Workroom",
+    "code": "REWM-I"
+  },
+  {
+    "slug": "Radiotherapy-Simulator-Room-CT-",
+    "name": "Radiotherapy Simulator Room - CT",
+    "code": "RSIM-CT-I"
+  },
+  {
+    "slug": "Radiotherapy-Simulator-Room-MRI-",
+    "name": "Radiotherapy Simulator Room - MRI",
+    "code": "RSIM-MRI-I"
+  },
+  {
+    "slug": "Scrub-Up-4m2-",
+    "name": "Scrub Up, 4m2",
+    "code": "SCRB-4-I"
+  },
+  {
+    "slug": "Scrub-Up-8m2-",
+    "name": "Scrub Up, 8m2",
+    "code": "SCRB-8-I"
+  },
+  {
+    "slug": "Assembly-Preparation-Pharmacy-20m2-",
+    "name": "Assembly/ Preparation (Pharmacy), 20m2",
+    "code": "ASPR-20-I"
+  },
+  {
+    "slug": "Assembly-Preparation-Pharmacy-30m2",
+    "name": "Assembly/ Preparation (Pharmacy), 30m2",
+    "code": "ASPR-30-I"
+  },
+  {
+    "slug": "Audiology-Testing-Room",
+    "name": "Audiology Testing Room",
+    "code": "AUDIO-I"
+  },
+  {
+    "slug": "Audio-visual-Room",
+    "name": "Audio-visual Room",
+    "code": "AUDV-I"
+  },
+  {
+    "slug": "Bathroom-",
+    "name": "Bathroom",
+    "code": "BATH-I"
+  },
+  {
+    "slug": "Balance-Assessment-Room",
+    "name": "Balance Assessment Room",
+    "code": "BALANCE-I"
+  },
+  {
+    "slug": "Bay-ATM-2m2",
+    "name": "Bay - ATM, 2m2",
+    "code": "BATM-2-I"
+  },
+  {
+    "slug": "Bay-ATM-6m2-",
+    "name": "Bay - ATM, 6m2",
+    "code": "BATM-6-I"
+  },
+  {
+    "slug": "Bay-Beverage-Open-Plan",
+    "name": "Bay - Beverage, Open Plan",
+    "code": "BBEV-OP-I"
+  },
+  {
+    "slug": "Vital-Signs-Room-",
+    "name": "Vital Signs Room",
+    "code": "VSR-I"
+  },
+  {
+    "slug": "Bay-Beverage-Enclosed-",
+    "name": "Bay - Beverage, Enclosed",
+    "code": "BBEV-ENC-I"
+  },
+  {
+    "slug": "Bay-Blanket-Fluid-Warmer-1m2-",
+    "name": "Bay - Blanket/ Fluid Warmer, 1m2",
+    "code": "BBW-1-I"
+  },
+  {
+    "slug": "Bay-Cleaning-1-5m2-",
+    "name": "Bay - Cleaning, 1.5m2",
+    "code": "BCL-1.5-I"
+  },
+  {
+    "slug": "Bathing-Examination-",
+    "name": "Bathing/ Examination",
+    "code": "BAEX-I"
+  },
+  {
+    "slug": "Bay-Cleaning-18m2-Patient-Transport-",
+    "name": "Bay - Cleaning, 18m2 (Patient Transport)",
+    "code": "BCL-18-I"
+  },
+  {
+    "slug": "Bay-Drinks-Dispenser-1m2",
+    "name": "Bay - Drinks Dispenser, 1m2",
+    "code": "BDD-1-I"
+  },
+  {
+    "slug": "Bay-Drinking-Fountain-1m2",
+    "name": "Bay - Drinking Fountain,1m2",
+    "code": "BDF-1-I"
+  },
+  {
+    "slug": "Bay-Emergency-Shower-Eyewash-1m2",
+    "name": "Bay - Emergency Shower &amp; Eyewash, 1m2",
+    "code": "BESE-1-I"
+  },
+  {
+    "slug": "Bay-Equipment-Park-10m2",
+    "name": "Bay - Equipment Park, 10m2",
+    "code": "BEQP-10-I"
+  },
+  {
+    "slug": "Bay-Equipment-Park-12m2-",
+    "name": "Bay - Equipment Park, 12m2",
+    "code": "BEQP-12-I"
+  },
+  {
+    "slug": "Bay-Equipment-Park-15m2",
+    "name": "Bay - Equipment Park, 15m2",
+    "code": "BEQP-15-I"
+  },
+  {
+    "slug": "Bay-Equipment-Park-20m2",
+    "name": "Bay - Equipment Park, 20m2",
+    "code": "BEQP-20-I"
+  },
+  {
+    "slug": "Bay-Flowers-Open-Plan",
+    "name": "Bay - Flowers, Open Plan",
+    "code": "BFLW-OP-I"
+  },
+  {
+    "slug": "Bay-Flowers-Enclosed",
+    "name": "Bay - Flowers, Enclosed",
+    "code": "BFLW-ENC-I"
+  },
+  {
+    "slug": "Bay-Handwashing-Type-A-",
+    "name": "Bay - Handwashing, Type A",
+    "code": "BHWS-A-I"
+  },
+  {
+    "slug": "Bay-Handwashing-Type-B-",
+    "name": "Bay - Handwashing, Type B",
+    "code": "BHWS-B-I"
+  },
+  {
+    "slug": "Bay-Handwashing-Type-C",
+    "name": "Bay - Handwashing, Type C",
+    "code": "BHWS-C-I"
+  },
+  {
+    "slug": "Bay-Handwashing-Type-D-",
+    "name": "Bay - Handwashing, Type D",
+    "code": "BHWS-D-I"
+  },
+  {
+    "slug": "Bay-Handwashing-PPE-",
+    "name": "Bay - Handwashing, PPE",
+    "code": "BHWS-PPE-I"
+  },
+  {
+    "slug": "Bay-Height-Weight-2m2",
+    "name": "Bay - Height/ Weight, 2m2",
+    "code": "BHW-2-I"
+  },
+  {
+    "slug": "Bay-Linen-Enclosed",
+    "name": "Bay - Linen Enclosed",
+    "code": "BLIN-E-I"
+  },
+  {
+    "slug": "Bay-Linen",
+    "name": "Bay - Linen",
+    "code": "BLIN-I"
+  },
+  {
+    "slug": "Bay-Meal-Trolley-4m2",
+    "name": "Bay - Meal Trolley, 4m2",
+    "code": "BMT-4-I"
+  },
+  {
+    "slug": "Bay-Mobile-Equipment-Enclosed-4m2",
+    "name": "Bay - Mobile Equipment (Enclosed), 4m2",
+    "code": "BMEQE-4-I"
+  },
+  {
+    "slug": "Bay-Mobile-Equipment-2-5m2",
+    "name": "Bay - Mobile Equipment, 2.5m2",
+    "code": "BMEQ-2.5-I"
+  },
+  {
+    "slug": "Bay-Mobile-Equipment-4m2",
+    "name": "Bay - Mobile Equipment, 4m2",
+    "code": "BMEQ-4-I"
+  },
+  {
+    "slug": "Bay-Mobile-Equipment-6m2",
+    "name": "Bay - Mobile Equipment, 6m2",
+    "code": "BMEQ-6-I"
+  },
+  {
+    "slug": "Bay-Mobile-Equipment-10m2",
+    "name": "Bay - Mobile Equipment, 10m2",
+    "code": "BMEQ-10-I"
+  },
+  {
+    "slug": "Bay-Pathology-1m2-",
+    "name": "Bay - Pathology, 1m2",
+    "code": "BPATH-1-I"
+  },
+  {
+    "slug": "Bay-Pathology-3m2",
+    "name": "Bay - Pathology, 3m2",
+    "code": "BPATH-3-I"
+  },
+  {
+    "slug": "Bay-PPE-Personal-Protective-Equipment-",
+    "name": "Bay - PPE (Personal Protective Equipment)",
+    "code": "BPPE-I"
+  },
+  {
+    "slug": "Bay-PTS-Pneumatic-Tube-System-",
+    "name": "Bay - PTS (Pneumatic Tube System)",
+    "code": "BPTS-I"
+  },
+  {
+    "slug": "Bay-Public-Telephone-2m2",
+    "name": "Bay - Public Telephone, 2m2",
+    "code": "BT-2-I"
+  },
+  {
+    "slug": "Bay-Resuscitation-Trolley",
+    "name": "Bay - Resuscitation Trolley",
+    "code": "BRES-I"
+  },
+  {
+    "slug": "Bay-Storage-1m2",
+    "name": "Bay - Storage, 1m2",
+    "code": "BS-1-I"
+  },
+  {
+    "slug": "Bay-Storage-Enclosed-1m2",
+    "name": "Bay - Storage (Enclosed), 1m2",
+    "code": "BSE-1-I"
+  },
+  {
+    "slug": "Bay-Storage-3m2",
+    "name": "Bay - Storage, 3m2",
+    "code": "BS-3-I"
+  },
+  {
+    "slug": "Bay-Storage-4m2",
+    "name": "Bay - Storage, 4m2",
+    "code": "BS-4-I"
+  },
+  {
+    "slug": "Bay-Storage-2m2-",
+    "name": "Bay - Storage, 2m2",
+    "code": "BS-2-I"
+  },
+  {
+    "slug": "Bay-Utility-1m2-",
+    "name": "Bay - Utility, 1m2",
+    "code": "BUT-1-I"
+  },
+  {
+    "slug": "Bay-Utility-1-5m2",
+    "name": "Bay - Utility, 1.5m2",
+    "code": "BUT-1.5-I"
+  },
+  {
+    "slug": "Bay-Utility-2m2",
+    "name": "Bay - Utility, 2m2",
+    "code": "BUT-2-I"
+  },
+  {
+    "slug": "Bay-Vending-Machines-3m2-",
+    "name": "Bay - Vending Machines, 3m2",
+    "code": "BVM-3-I"
+  },
+  {
+    "slug": "Bay-Vending-Machines-5m2",
+    "name": "Bay - Vending Machines, 5m2",
+    "code": "BVM-5-I"
+  },
+  {
+    "slug": "Bay-Wheelchair-Park-4m2",
+    "name": "Bay - Wheelchair Park, 4m2",
+    "code": "BWC-I"
+  },
+  {
+    "slug": "Bay-Wheelchair-Park-8m2",
+    "name": "Bay - Wheelchair Park, 8m2",
+    "code": "BWC-8-I"
+  },
+  {
+    "slug": "Birthing-Room-LDR-with-Water-Birth",
+    "name": "Birthing Room - LDR with Water Birth",
+    "code": "BIRM-WB-I"
+  },
+  {
+    "slug": "Birthing-Room-LDR",
+    "name": "Birthing Room - LDR",
+    "code": "BIRM-I"
+  },
+  {
+    "slug": "Blood-Collection-Bay-5m2-",
+    "name": "Blood Collection Bay, 5m2",
+    "code": "BLDC-5-I"
+  },
+  {
+    "slug": "Blood-Checking-Labelling-Work-Area-",
+    "name": "Blood Checking/ Labelling/ Work Area",
+    "code": "BLDWK-I"
+  },
+  {
+    "slug": "Blood-Collection-Bay-9m2-",
+    "name": "Blood Collection Bay, 9m2",
+    "code": "BLDC-9-I"
+  },
+  {
+    "slug": "Blood-Collection-Work-Area",
+    "name": "Blood Collection Work Area",
+    "code": "BLDCW-I"
+  },
+  {
+    "slug": "Blood-Store",
+    "name": "Blood Store",
+    "code": "BLST-I"
+  },
+  {
+    "slug": "Cashier-5m2",
+    "name": "Cashier, 5m2",
+    "code": "CASH-5-I"
+  },
+  {
+    "slug": "Calibration-Testing-Shop",
+    "name": "Calibration / Testing Shop",
+    "code": "CAL-TEST-30-I"
+  },
+  {
+    "slug": "Cashier",
+    "name": "Cashier",
+    "code": "CASH-9-I"
+  },
+  {
+    "slug": "Catheter-Laboratory-Procedure-Room-60m2",
+    "name": "Catheter Laboratory Procedure Room, 60m2",
+    "code": "CLAB-60-I"
+  },
+  {
+    "slug": "Catheter-Laboratory-Procedure-Room",
+    "name": "Catheter Laboratory Procedure Room",
+    "code": "CLAB-I"
+  },
+  {
+    "slug": "Catheter-Lab-Control-Reporting-Room-",
+    "name": "Catheter Lab Control/ Reporting Room",
+    "code": "CLCRT-I"
+  },
+  {
+    "slug": "Change-Cubicle-Patient",
+    "name": "Change Cubicle - Patient",
+    "code": "CHPT-2-I"
+  },
+  {
+    "slug": "Change-Cubicle-Accessible-",
+    "name": "Change Cubicle - Accessible",
+    "code": "CHPT-D-I"
+  },
+  {
+    "slug": "Change-Patient-Male-Female-12m2",
+    "name": "Change - Patient (Male/ Female), 12m2",
+    "code": "CHPT-12-I"
+  },
+  {
+    "slug": "Change-Staff-Male-Female-10m2",
+    "name": "Change - Staff (Male/Female), 10m2",
+    "code": "CHST-10-I"
+  },
+  {
+    "slug": "Change-Staff-Male-Female-12m2-",
+    "name": "Change - Staff (Male/Female), 12m2",
+    "code": "CHST-12-I"
+  },
+  {
+    "slug": "Change-Staff-Male-Female-14m2",
+    "name": "Change - Staff (Male/Female), 14m2",
+    "code": "CHST-14-I"
+  },
+  {
+    "slug": "Change-Staff-Male-Female-20m2-",
+    "name": "Change - Staff (Male/ Female), 20m2",
+    "code": "CHST-20-I"
+  },
+  {
+    "slug": "Change-Staff-Male-Female-25m2",
+    "name": "Change - Staff (Male/Female), 25m2",
+    "code": "CHST-25-I"
+  },
+  {
+    "slug": "Change-Staff-Male-Female-35m2",
+    "name": "Change - Staff (Male/Female), 35m2",
+    "code": "CHST-35-I"
+  },
+  {
+    "slug": "Change-Staff-Female-40m2",
+    "name": "Change - Staff, Female, 40m2",
+    "code": "CHST-F-G-I"
+  },
+  {
+    "slug": "Change-Staff-Male-40m2",
+    "name": "Change - Staff, Male, 40m2",
+    "code": "CHST-M-G-I"
+  },
+  {
+    "slug": "Cleaner-s-Room-6m2-",
+    "name": "Cleaner&#39;s Room, 6m2",
+    "code": "CLRM-6-I"
+  },
+  {
+    "slug": "Cleaner-s-Room-10m2",
+    "name": "Cleaner&#39;s Room, 10m2",
+    "code": "CLRM-10-I"
+  },
+  {
+    "slug": "Clean-up-Room-Outpatient-Unit",
+    "name": "Clean-up Room - Outpatient Unit",
+    "code": "CLUP-OPD-I"
+  },
+  {
+    "slug": "Clean-up-Room-7m2",
+    "name": "Clean-up Room, 7m2",
+    "code": "CLUP-7-I"
+  },
+  {
+    "slug": "Clean-up-Room-10m2",
+    "name": "Clean-up Room, 10m2",
+    "code": "CLUP-10-I"
+  },
+  {
+    "slug": "Clean-Up-Room-12m2",
+    "name": "Clean-Up Room, 12m2",
+    "code": "CLUP-12-I"
+  },
+  {
+    "slug": "Clean-Up-Room-Shared-15m2",
+    "name": "Clean-Up Room - Shared, 15m2",
+    "code": "CLUP-15-I"
+  },
+  {
+    "slug": "Clean-up-Room-Pathology-",
+    "name": "Clean-up Room (Pathology)",
+    "code": "CLUP-P-I"
+  },
+  {
+    "slug": "Clean-Utility-12m2",
+    "name": "Clean Utility, 12m2",
+    "code": "CLUR-12-I"
+  },
+  {
+    "slug": "Clean-Utility-Medication-12m2-",
+    "name": "Clean Utility/ Medication,12m2",
+    "code": "CLUM-12-I"
+  },
+  {
+    "slug": "Clean-Utility-Medication-14m2",
+    "name": "Clean Utility/ Medication, 14m2",
+    "code": "CLUM-14-I"
+  },
+  {
+    "slug": "Clean-Utility-Medication-Sub-8m2",
+    "name": "Clean Utility/ Medication - Sub, 8m2",
+    "code": "CLUM-8-I"
+  },
+  {
+    "slug": "Clean-Utility-Sub-8m2-",
+    "name": "Clean Utility - Sub, 8m2",
+    "code": "CLUR-8-I"
+  },
+  {
+    "slug": "Clerical-Support-Medical-Records",
+    "name": "Clerical Support/ Medical Records",
+    "code": "CLREC-I"
+  },
+  {
+    "slug": "Coffee-Shop-Seating-Dining-30m2",
+    "name": "Coffee Shop - Seating/ Dining, 30m2",
+    "code": "COFS-D-30-I"
+  },
+  {
+    "slug": "Coffee-Shop-Preparation",
+    "name": "Coffee Shop - Preparation",
+    "code": "COFS-P-I"
+  },
+  {
+    "slug": "Coffee-Shop-Servery",
+    "name": "Coffee Shop - Servery",
+    "code": "COFS-SERV-I"
+  },
+  {
+    "slug": "Coffee-Shop-Store-8m2",
+    "name": "Coffee Shop - Store, 8m2",
+    "code": "COFS-S-8-I"
+  },
+  {
+    "slug": "Coffee-Shop-Wash-up",
+    "name": "Coffee Shop - Wash-up",
+    "code": "COFS-W-I"
+  },
+  {
+    "slug": "Communications-Room-12m2-",
+    "name": "Communications Room,12m2",
+    "code": "COMM-12-I"
+  },
+  {
+    "slug": "Communications-Room-20m2",
+    "name": "Communications Room, 20m2",
+    "code": "COMM-20-I"
+  },
+  {
+    "slug": "Communications-Room-ICT",
+    "name": "Communications Room - ICT",
+    "code": "COMM-ICT-I"
+  },
+  {
+    "slug": "Computer-Room-20m2",
+    "name": "Computer Room, 20m2",
+    "code": "COMM-20-I"
+  },
+  {
+    "slug": "Computer-Training-Room-",
+    "name": "Computer Training Room",
+    "code": "COTR-I"
+  },
+  {
+    "slug": "Consult-Exam-Room",
+    "name": "Consult/ Exam Room",
+    "code": "CONS-I"
+  },
+  {
+    "slug": "Consult-Exam-Room-16m2-",
+    "name": "Consult/ Exam Room, 16m2",
+    "code": "CONS-16-I"
+  },
+  {
+    "slug": "Consult-Exam-Room-18m2-",
+    "name": "Consult/ Exam Room, 18m2",
+    "code": "CONS-18-I"
+  },
+  {
+    "slug": "Consult-Exam-Room-ENT",
+    "name": "Consult/ Exam Room - ENT",
+    "code": "CONS-ENT-I"
+  },
+  {
+    "slug": "Consult-Exam-Room-Ophthalmology",
+    "name": "Consult/ Exam Room - Ophthalmology",
+    "code": "CONS-OPT-I"
+  },
+  {
+    "slug": "Consult-Room-ENT-Ophthalmology",
+    "name": "Consult Room - ENT/ Ophthalmology",
+    "code": "CONS-ENT-OPT-I"
+  },
+  {
+    "slug": "Consult-Room-Mental-Health-",
+    "name": "Consult Room - Mental Health",
+    "code": "CONS-MH-I"
+  },
+  {
+    "slug": "Cool-Room",
+    "name": "Cool Room",
+    "code": "CORM-I"
+  },
+  {
+    "slug": "Consult-Room-ENT-Ophthalmology-16m2",
+    "name": "Consult Room - ENT/ Ophthalmology, 16m2",
+    "code": "CONS-ENT-OPT-16-I"
+  },
+  {
+    "slug": "Consult-Room-Mental-Health-16m2",
+    "name": "Consult Room - Mental Health, 16m2",
+    "code": "CONS-MH-16-I"
+  },
+  {
+    "slug": "Computer-Equipment-Room-8m2",
+    "name": "Computer Equipment Room, 8m2",
+    "code": "COEQ-8-I"
+  },
+  {
+    "slug": "Corridor-Clinical-Areas",
+    "name": "Corridor- Clinical Areas",
+    "code": "CORR-CL-I"
+  },
+  {
+    "slug": "Corridor-Non-Clinical-Areas",
+    "name": "Corridor- Non Clinical Areas",
+    "code": "CORR-NC-I"
+  },
+  {
+    "slug": "Corridor-Patient-Areas",
+    "name": "Corridor- Patient  Areas",
+    "code": "CORR-PA-I"
+  },
+  {
+    "slug": "Courtyard-Secure-",
+    "name": "Courtyard - Secure",
+    "code": "CTSE-I"
+  },
+  {
+    "slug": "Corridor-Procedural-Areas",
+    "name": "Corridor- Procedural Areas",
+    "code": "CORR-PR-I"
+  },
+  {
+    "slug": "Corridor-Service-Areas",
+    "name": "Corridor- Service Areas",
+    "code": "CORR-SV-I"
+  },
+  {
+    "slug": "CT-Scanning-Control-Room",
+    "name": "CT Scanning - Control Room",
+    "code": "CTCR-I"
+  },
+  {
+    "slug": "CT-Scanning-Procedure-Room",
+    "name": "CT Scanning - Procedure Room",
+    "code": "CTPR-I"
+  },
+  {
+    "slug": "Cytotoxic-Room-",
+    "name": "Cytotoxic Room",
+    "code": "CYT-I"
+  },
+  {
+    "slug": "Cytotoxic-Clean-Room",
+    "name": "Cytotoxic Clean Room",
+    "code": "PREP-CYT-I"
+  },
+  {
+    "slug": "Dark-Room",
+    "name": "Dark Room",
+    "code": "DARK-I"
+  },
+  {
+    "slug": "Daylight-Processing",
+    "name": "Daylight Processing",
+    "code": "DPRO-I"
+  },
+  {
+    "slug": "Demonstration-Room",
+    "name": "Demonstration Room",
+    "code": "DEM-I"
+  },
+  {
+    "slug": "Dental-Clean-up",
+    "name": "Dental Clean-up",
+    "code": "DENCU-8-I"
+  },
+  {
+    "slug": "Dental-Imaging-Room-",
+    "name": "Dental Imaging Room",
+    "code": "DENI-I"
+  },
+  {
+    "slug": "Dental-Clean-Up-Sterilising-8m2",
+    "name": "Dental Clean-Up/ Sterilising, 8m2",
+    "code": "DENCU-8-I"
+  },
+  {
+    "slug": "Dental-Clean-Up-Sterilising-10m2",
+    "name": "Dental Clean-Up/ Sterilising, 10m2",
+    "code": "DENCU-10-I"
+  },
+  {
+    "slug": "Dental-Workroom-8m2",
+    "name": "Dental Workroom, 8m2",
+    "code": "DENW-8-I"
+  },
+  {
+    "slug": "Dental-Workroom-12m2",
+    "name": "Dental Workroom, 12m2",
+    "code": "DENW-12-I"
+  },
+  {
+    "slug": "Dental-Laboratory-20m2-",
+    "name": "Dental Laboratory, 20m2",
+    "code": "DENL-20-I"
+  },
+  {
+    "slug": "Dental-Surgery-14m2",
+    "name": "Dental Surgery, 14m2",
+    "code": "DENSR-14-I"
+  },
+  {
+    "slug": "Dental-Surgery-16m2",
+    "name": "Dental Surgery, 16m2",
+    "code": "DENSR-16-I"
+  },
+  {
+    "slug": "Dental-X-Ray-Processing",
+    "name": "Dental X-Ray Processing",
+    "code": "DENXR-I"
+  },
+  {
+    "slug": "Dining-Room-Mental-Health-30m2",
+    "name": "Dining Room (Mental Health), 30m2",
+    "code": "DINMH-30-I"
+  },
+  {
+    "slug": "Dining-Room-Beverage-Bay-Mental-Health-25m2-",
+    "name": "Dining Room/ Beverage Bay (Mental Health), 25m2",
+    "code": "DINBEV-25-I"
+  },
+  {
+    "slug": "Dining-Room-Beverage-Bay-Mental-Health-38m2-",
+    "name": "Dining Room/ Beverage Bay (Mental Health), 38m2",
+    "code": "DINBEV-38-I"
+  },
+  {
+    "slug": "Dining-Room-Rehabilitation-",
+    "name": "Dining Room (Rehabilitation)",
+    "code": "DINR-I"
+  },
+  {
+    "slug": "Dirty-Utility-10m2",
+    "name": "Dirty Utility, 10m2",
+    "code": "DTUR-10-I"
+  },
+  {
+    "slug": "Dirty-Utility-12m2-",
+    "name": "Dirty Utility, 12m2",
+    "code": "DTUR-12-I"
+  },
+  {
+    "slug": "Dirty-Utility-14m2",
+    "name": "Dirty Utility, 14m2",
+    "code": "DTUR-14-I"
+  },
+  {
+    "slug": "Dirty-Utility-Sub-",
+    "name": "Dirty Utility - Sub",
+    "code": "DTUR-S-I"
+  },
+  {
+    "slug": "Disposal-Room-5m2",
+    "name": "Disposal Room, 5m2",
+    "code": "DISP-5-I"
+  },
+  {
+    "slug": "Disposal-Room-8m2-",
+    "name": "Disposal Room, 8m2",
+    "code": "DISP-8-I"
+  },
+  {
+    "slug": "Disposal-Room-10m2",
+    "name": "Disposal Room, 10m2",
+    "code": "DISP-10-I"
+  },
+  {
+    "slug": "Drug-Information-",
+    "name": "Drug Information",
+    "code": "DRI-I"
+  },
+  {
+    "slug": "Echocardiography-",
+    "name": "Echocardiography",
+    "code": "ECHO-I"
+  },
+  {
+    "slug": "Endoscopy-Procedure-Room-42m2",
+    "name": "Endoscopy Procedure Room, 42m2",
+    "code": "ENDP-42-I"
+  },
+  {
+    "slug": "Endoscopy-Procedure-Room",
+    "name": "Endoscopy Procedure Room",
+    "code": "ENDP-I"
+  },
+  {
+    "slug": "Electronics-Laboratory-",
+    "name": "Electronics Laboratory",
+    "code": "ELAB-I"
+  },
+  {
+    "slug": "Electroencephalogram-EEG-",
+    "name": "Electroencephalogram (EEG)",
+    "code": "EEG-I"
+  },
+  {
+    "slug": "Electromyograph-EMG-",
+    "name": "Electromyograph (EMG)",
+    "code": "EMG-I"
+  },
+  {
+    "slug": "Ensuite-Accessible",
+    "name": "Ensuite - Accessible",
+    "code": "ENS-ACC-I"
+  },
+  {
+    "slug": "Ensuite-Bariatric-",
+    "name": "Ensuite - Bariatric",
+    "code": "ENS-BA-I"
+  },
+  {
+    "slug": "Ensuite-Birthing-Room-with-Bath-",
+    "name": "Ensuite - Birthing Room, with Bath",
+    "code": "ENS-BR-A-I"
+  },
+  {
+    "slug": "Ensuite-Birthing-Room-with-Shower",
+    "name": "Ensuite - Birthing Room, with Shower",
+    "code": "ENS-BR-B-I"
+  },
+  {
+    "slug": "Ensuite-Birthing-Room-with-Shower-6m2",
+    "name": "Ensuite - Birthing Room, with Shower, 6m2",
+    "code": "ENS-BR-B-6-I"
+  },
+  {
+    "slug": "Ensuite-Birthing-Room",
+    "name": "Ensuite - Birthing Room",
+    "code": "ENS-BR-I-A"
+  },
+  {
+    "slug": "Ensuite-Birthing-Room-Alternative",
+    "name": "Ensuite - Birthing Room, Alternative",
+    "code": "ENS-BR-I-B"
+  },
+  {
+    "slug": "Ensuite-Standard-",
+    "name": "Ensuite - Standard",
+    "code": "ENS-ST-I"
+  },
+  {
+    "slug": "Ensuite-Standard-6m2-",
+    "name": "Ensuite - Standard, 6m2",
+    "code": "ENS-ST-6-I"
+  },
+  {
+    "slug": "Ensuite-Super-",
+    "name": "Ensuite - Super",
+    "code": "ENS-SP-I"
+  },
+  {
+    "slug": "Ensuite-Standard-Additional-Access-",
+    "name": "Ensuite - Standard - Additional Access",
+    "code": "ENS-ST-A-I"
+  },
+  {
+    "slug": "Ensuite-Mental-Health-",
+    "name": "Ensuite - Mental Health",
+    "code": "ENS-MH-I"
+  },
+  {
+    "slug": "Ensuite-Super-VIP",
+    "name": "Ensuite - Super VIP",
+    "code": "ENS-SVIP-I"
+  },
+  {
+    "slug": "Ensuite-VIP-",
+    "name": "Ensuite - VIP",
+    "code": "ENS-VIP-I"
+  },
+  {
+    "slug": "Ensuite-Visitor",
+    "name": "Ensuite - Visitor",
+    "code": "ENS-VIS-I"
+  },
+  {
+    "slug": "Extracorporeal-Shockwave-Lithotripsy-ESW-",
+    "name": "Extracorporeal Shockwave Lithotripsy (ESW)",
+    "code": "ESW-I"
+  },
+  {
+    "slug": "Equipment-Clean-Up-6m2",
+    "name": "Equipment Clean-Up, 6m2",
+    "code": "ECL-6-I"
+  },
+  {
+    "slug": "Equipment-Clean-Up-8m2",
+    "name": "Equipment Clean-Up, 8m2",
+    "code": "ECL-8-I"
+  },
+  {
+    "slug": "Equipment-Clean-up-10m2",
+    "name": "Equipment Clean-up, 10m2",
+    "code": "ECL-10-I"
+  },
+  {
+    "slug": "Equipment-Clean-Up-12m2",
+    "name": "Equipment Clean-Up, 12m2",
+    "code": "ECL-12-I"
+  },
+  {
+    "slug": "Equipment-Clean-Up-14m2",
+    "name": "Equipment Clean-Up, 14m2",
+    "code": "ECL-14-I"
+  },
+  {
+    "slug": "Equipment-Clean-Up-Loan-Equipment-10m2",
+    "name": "Equipment Clean-Up, Loan Equipment, 10m2",
+    "code": "ECL-LE-10-I"
+  },
+  {
+    "slug": "Equipment-Clean-Up-Loan-Equipment-12m2",
+    "name": "Equipment Clean-Up, Loan Equipment, 12m2",
+    "code": "ECL-LE-12-I"
+  },
+  {
+    "slug": "Equipment-Clean-up-Sub-Pathology",
+    "name": "Equipment Clean-up, Sub Pathology",
+    "code": "ECL-SP-I"
+  },
+  {
+    "slug": "Examination-Assessment-Room-Birthing-",
+    "name": "Examination/ Assessment Room - Birthing",
+    "code": "EXAS-B-I"
+  },
+  {
+    "slug": "Examination-Assessment-Room-Mental-Health-",
+    "name": "Examination/ Assessment Room - Mental Health",
+    "code": "EXAS-MH-I"
+  },
+  {
+    "slug": "Family-Carer-Room-Super-VIP-",
+    "name": "Family/ Carer Room - Super VIP",
+    "code": "F-CR-SVIP-I"
+  },
+  {
+    "slug": "Feeding-Room-",
+    "name": "Feeding Room",
+    "code": "FEED-I"
+  },
+  {
+    "slug": "Film-Processing-Viewing-and-Reporting",
+    "name": "Film Processing, Viewing and Reporting",
+    "code": "FPVR-I"
+  },
+  {
+    "slug": "Flash-Steriliser-2m2-",
+    "name": "Flash Steriliser, 2m2",
+    "code": "FST-2-I"
+  },
+  {
+    "slug": "Formula-Room",
+    "name": "Formula Room",
+    "code": "FORM-I"
+  },
+  {
+    "slug": "Fracture-Clinic-Hand-Prosthetics-",
+    "name": "Fracture Clinic (Hand &amp; Prosthetics)",
+    "code": "FRACL-I"
+  },
+  {
+    "slug": "Freezer-Room-",
+    "name": "Freezer Room",
+    "code": "FRRM-I"
+  },
+  {
+    "slug": "General-X-Ray-36m2",
+    "name": "General X-Ray, 36m2",
+    "code": "GENXR-36-I"
+  },
+  {
+    "slug": "Gait-Assessment-Room",
+    "name": "Gait Assessment Room",
+    "code": "GAIT-I"
+  },
+  {
+    "slug": "Gamma-Camera",
+    "name": "Gamma Camera",
+    "code": "GCAM-I"
+  },
+  {
+    "slug": "General-X-Ray-",
+    "name": "General X-Ray",
+    "code": "GENXR-I"
+  },
+  {
+    "slug": "Goods-Receipt-Pharmacy-6m2",
+    "name": "Goods Receipt - Pharmacy, 6m2",
+    "code": "GRE-6-I"
+  },
+  {
+    "slug": "Gown-up",
+    "name": "Gown-up",
+    "code": "GW-UP-I"
+  },
+  {
+    "slug": "Gown-down",
+    "name": "Gown-down",
+    "code": "GW-DN-I"
+  },
+  {
+    "slug": "Gymnasium-60m2-",
+    "name": "Gymnasium, 60m2",
+    "code": "GYAH-60-I"
+  },
+  {
+    "slug": "Gown-down-12m2",
+    "name": "Gown-down, 12m2",
+    "code": "GW-DN-12-I"
+  },
+  {
+    "slug": "Gown-up-12m2",
+    "name": "Gown-up, 12m2",
+    "code": "GW-UP-12-I"
+  },
+  {
+    "slug": "Gymnasium-45m2-",
+    "name": "Gymnasium, 45m2",
+    "code": "GYAH-45-I"
+  },
+  {
+    "slug": "Gymnasium-Paediatric-Therapy-",
+    "name": "Gymnasium, Paediatric Therapy",
+    "code": "GYAH-P-I"
+  },
+  {
+    "slug": "Hydrotherapy-Pool-75m2",
+    "name": "Hydrotherapy Pool, 75m2",
+    "code": "HYDP-75-I"
+  },
+  {
+    "slug": "Hydrotherapy-Pool-90m2",
+    "name": "Hydrotherapy Pool, 90m2",
+    "code": "HYDP-90-I"
+  },
+  {
+    "slug": "Hot-Laboratory-SPECT",
+    "name": "Hot Laboratory - SPECT",
+    "code": "HTLB-I"
+  },
+  {
+    "slug": "Hydrotherapy-Pool-Locker-Bay",
+    "name": "Hydrotherapy Pool Locker Bay",
+    "code": "HYDLK-I"
+  },
+  {
+    "slug": "Hyperbaric-Oxygen-Therapy-Room-1-Chamber",
+    "name": "Hyperbaric Oxygen Therapy Room - 1 Chamber",
+    "code": "HBOT-1-I"
+  },
+  {
+    "slug": "Hyperbaric-Oxygen-Therapy-Room-2-Chambers",
+    "name": "Hyperbaric Oxygen Therapy Room - 2 Chambers",
+    "code": "HBOT-2-I"
+  },
+  {
+    "slug": "Hyperbaric-Oxygen-Therapy-Room-4-Chambers",
+    "name": "Hyperbaric Oxygen Therapy Room - 4 Chambers",
+    "code": "HBOT-4-I"
+  },
+  {
+    "slug": "Hydrotherapy-Pool-Open-Shower-Area-",
+    "name": "Hydrotherapy Pool Open Shower Area",
+    "code": "HYDSH-I"
+  },
+  {
+    "slug": "Hydrotherapy-Pool-Store",
+    "name": "Hydrotherapy Pool Store",
+    "code": "HYDST-I"
+  },
+  {
+    "slug": "Interview-Room-Family-Large-",
+    "name": "Interview Room - Family/ Large",
+    "code": "INTF-I"
+  },
+  {
+    "slug": "IVF-ICSI-Laboratory",
+    "name": "IVF / ICSI Laboratory",
+    "code": "IVF-ICSI-I"
+  },
+  {
+    "slug": "Laser-Camera",
+    "name": "Laser Camera",
+    "code": "LASC-I"
+  },
+  {
+    "slug": "Laundry-Hospital",
+    "name": "Laundry - Hospital",
+    "code": "LAUN-HO-I"
+  },
+  {
+    "slug": "Laundry-Mental-Health-",
+    "name": "Laundry - Mental Health",
+    "code": "LAUN-MH-I"
+  },
+  {
+    "slug": "Laundry-Patient-",
+    "name": "Laundry - Patient",
+    "code": "LAUN-PT-I"
+  },
+  {
+    "slug": "Lecture-Room-75m2",
+    "name": "Lecture Room, 75m2",
+    "code": "LEC-75-I"
+  },
+  {
+    "slug": "Lecture-Room-100m2",
+    "name": "Lecture Room, 100m2",
+    "code": "LEC-100-I"
+  },
+  {
+    "slug": "Library-Study-Reading-Area-40m2-",
+    "name": "Library &amp; Study/ Reading Area, 40m2",
+    "code": "LSRA-40-I"
+  },
+  {
+    "slug": "Library-Study-Reading-Area-50m2",
+    "name": "Library &amp; Study/ Reading Area, 50m2",
+    "code": "LSRA-50-I"
+  },
+  {
+    "slug": "Linen-Holding-Clean",
+    "name": "Linen Holding - Clean",
+    "code": "LHO-CL-I"
+  },
+  {
+    "slug": "Linen-Holding-Soiled",
+    "name": "Linen Holding - Soiled",
+    "code": "LHO-SO-I"
+  },
+  {
+    "slug": "Loading-Dock-",
+    "name": "Loading Dock",
+    "code": "LODK-I"
+  },
+  {
+    "slug": "Lounge-Activities-Mental-Health-20m2-",
+    "name": "Lounge - Activities (Mental Health), 20m2",
+    "code": "LNAC-20-I"
+  },
+  {
+    "slug": "Lounge-Activities-Mental-Health-30m2-",
+    "name": "Lounge - Activities (Mental Health), 30m2",
+    "code": "LNAC-30-I"
+  },
+  {
+    "slug": "Lounge-Activities-Mental-Health-55m2",
+    "name": "Lounge - Activities (Mental Health), 55m2",
+    "code": "LNAC-55-I"
+  },
+  {
+    "slug": "Lounge-Adolescent-10m2",
+    "name": "Lounge - Adolescent, 10m2",
+    "code": "LNAD-10-I"
+  },
+  {
+    "slug": "Lounge-Medical-Officers-20m2",
+    "name": "Lounge - Medical Officers, 20m2",
+    "code": "LNMO-20-I"
+  },
+  {
+    "slug": "Lounge-Medical-Officers-25m2",
+    "name": "Lounge - Medical Officers, 25m2",
+    "code": "LNMO-25-I"
+  },
+  {
+    "slug": "Lounge-Medical-Officers-35m2",
+    "name": "Lounge - Medical Officers, 35m2",
+    "code": "LNMO-35-I"
+  },
+  {
+    "slug": "Lounge-Dining-Super-VIP-",
+    "name": "Lounge/ Dining - Super VIP",
+    "code": "LD-SVIP-I"
+  },
+  {
+    "slug": "Lounge-Dining-Super-VIP-26m2",
+    "name": "Lounge/ Dining - Super VIP, 26m2",
+    "code": "LD-SVIP-26-I"
+  },
+  {
+    "slug": "Lounge-Dining-VIP",
+    "name": "Lounge/ Dining - VIP",
+    "code": "LD-VIP-I"
+  },
+  {
+    "slug": "Lounge-Dining-Activites-Mental-Health-20m2-",
+    "name": "Lounge/ Dining - Activites (Mental Health), 20m2",
+    "code": "LDA-MH-20-I"
+  },
+  {
+    "slug": "Lounge-Parent-12m2",
+    "name": "Lounge - Parent, 12m2",
+    "code": "LNPA-12-I"
+  },
+  {
+    "slug": "Lounge-Patient-20m2",
+    "name": "Lounge - Patient, 20m2",
+    "code": "LNPT-20-I"
+  },
+  {
+    "slug": "Lounge-Patient-10m2",
+    "name": "Lounge - Patient, 10m2",
+    "code": "LNPT-10-I"
+  },
+  {
+    "slug": "Lounge-Patient-15m2",
+    "name": "Lounge - Patient, 15m2",
+    "code": "LNPT-15-I"
+  },
+  {
+    "slug": "Lounge-Patient-30m2",
+    "name": "Lounge - Patient, 30m2",
+    "code": "LNPT-30-I"
+  },
+  {
+    "slug": "Lounge-Patient-Chemotherapy-",
+    "name": "Lounge - Patient, Chemotherapy",
+    "code": "LNPT-CM-I"
+  },
+  {
+    "slug": "Lounge-Patient-Special-",
+    "name": "Lounge - Patient, Special",
+    "code": "LNPT-S-I"
+  },
+  {
+    "slug": "Lounge-Recovery-Stage-2-Typical-Bay-",
+    "name": "Lounge - Recovery, Stage 2 (Typical Bay)",
+    "code": "LNPT-RS2-I"
+  },
+  {
+    "slug": "Mammography",
+    "name": "Mammography",
+    "code": "MAMMO-I"
+  },
+  {
+    "slug": "Majlis-",
+    "name": "Majlis",
+    "code": "MAJ-30-I"
+  },
+  {
+    "slug": "Mammography-Interventional",
+    "name": "Mammography - Interventional",
+    "code": "MAM-INT-I"
+  },
+  {
+    "slug": "Medication-Treatment-Room-Mental-Health-",
+    "name": "Medication/ Treatment Room - Mental Health",
+    "code": "MED-MH-I"
+  },
+  {
+    "slug": "Medication-Room-10m2",
+    "name": "Medication Room, 10m2",
+    "code": "MEDR-10-I"
+  },
+  {
+    "slug": "Medication-Treatment-Room-Mental-Health-16m2",
+    "name": "Medication/ Treatment Room - Mental Health, 16m2",
+    "code": "MED-MH-16-I"
+  },
+  {
+    "slug": "Meeting-Room-Antenatal",
+    "name": "Meeting Room - Antenatal",
+    "code": "MEET-AN-I"
+  },
+  {
+    "slug": "Meeting-Room-Diversional-Therapy",
+    "name": "Meeting Room - Diversional Therapy",
+    "code": "MEET-DT-I"
+  },
+  {
+    "slug": "Meeting-Room-Living-Skills-20m2",
+    "name": "Meeting Room - Living Skills, 20m2",
+    "code": "MEET-LS-20-I"
+  },
+  {
+    "slug": "Meeting-Room-Living-Skills-30m2",
+    "name": "Meeting Room - Living Skills, 30m2",
+    "code": "MEET-LS-30-I"
+  },
+  {
+    "slug": "Meeting-Room-Small-9m2",
+    "name": "Meeting Room - Small, 9m2",
+    "code": "MEET-9-I"
+  },
+  {
+    "slug": "Meeting-Room-Small-12m2",
+    "name": "Meeting Room - Small, 12m2",
+    "code": "MEET-12-I"
+  },
+  {
+    "slug": "Meeting-Room-Medium-Large-15m2",
+    "name": "Meeting Room - Medium/Large, 15m2",
+    "code": "MEET-L-15-I"
+  },
+  {
+    "slug": "Meeting-Room-Medium-Large-18m2",
+    "name": "Meeting Room - Medium/Large, 18m2",
+    "code": "MEET-L-18-I"
+  },
+  {
+    "slug": "Meeting-Room-Medium-Large-20m2",
+    "name": "Meeting Room - Medium/Large, 20m2",
+    "code": "MEET-L-20-I"
+  },
+  {
+    "slug": "Meeting-Room-Medium-Large-25m2",
+    "name": "Meeting Room - Medium/Large, 25m2",
+    "code": "MEET-L-25-I"
+  },
+  {
+    "slug": "Meeting-Room-Medium-Large-30m2",
+    "name": "Meeting Room - Medium/ Large, 30m2",
+    "code": "MEET-L-30-I"
+  },
+  {
+    "slug": "Meeting-Room-Medium-Large-35m2",
+    "name": "Meeting Room - Medium/Large, 35m2",
+    "code": "MEET-L-35-I"
+  },
+  {
+    "slug": "Meeting-Room-Large-55m2",
+    "name": "Meeting Room - Large, 55m2",
+    "code": "MEET-L-55-I"
+  },
+  {
+    "slug": "Mortuary-Clean-up-Area-",
+    "name": "Mortuary - Clean-up Area",
+    "code": "MOR-CU-I"
+  },
+  {
+    "slug": "Mortuary-Cool-Store",
+    "name": "Mortuary - Cool Store",
+    "code": "MOR-CS-I"
+  },
+  {
+    "slug": "Mortuary-Exit-Lobby-",
+    "name": "Mortuary - Exit Lobby",
+    "code": "MOR-EX-I"
+  },
+  {
+    "slug": "Mortuary-Viewing-Room",
+    "name": "Mortuary - Viewing Room",
+    "code": "MOR-VR-I"
+  },
+  {
+    "slug": "Neonatal-Bay-General-Care-",
+    "name": "Neonatal Bay - General Care",
+    "code": "NBGC-I"
+  },
+  {
+    "slug": "Mortuary-Body-Washing-Embalming-Room",
+    "name": "Mortuary - Body Washing &amp; Embalming Room",
+    "code": "MOR-BW-I"
+  },
+  {
+    "slug": "Mortuary-Waiting-",
+    "name": "Mortuary - Waiting",
+    "code": "MOR-W-I"
+  },
+  {
+    "slug": "Mould-Room-Fitting",
+    "name": "Mould Room - Fitting",
+    "code": "MLD-FT-I"
+  },
+  {
+    "slug": "Mould-Room-Workshop-",
+    "name": "Mould Room - Workshop",
+    "code": "MLD-WS-I"
+  },
+  {
+    "slug": "Multi-Function-Activites-Room-Mental-Health-20m2",
+    "name": "Multi-Function Activites Room (Mental Health), 20m2",
+    "code": "MAC-20-I"
+  },
+  {
+    "slug": "MRI-Scanning-Room-42m2",
+    "name": "MRI Scanning Room, 42m2",
+    "code": "MRI-42-I"
+  },
+  {
+    "slug": "MRI-Scanning-Room-47m2-",
+    "name": "MRI Scanning Room, 47m2",
+    "code": "MRI-47-I"
+  },
+  {
+    "slug": "MRI-Scanning-Control-Room-",
+    "name": "MRI Scanning - Control Room",
+    "code": "MRICR-I"
+  },
+  {
+    "slug": "MRI-Scanning-Room-Open-42m2-",
+    "name": "MRI Scanning Room, Open, 42m2",
+    "code": "MRI-OP-42-I"
+  },
+  {
+    "slug": "Neonatal-Bay-Intensive-Care-Enclosed",
+    "name": "Neonatal Bay - Intensive Care, Enclosed",
+    "code": "NBICU-E-I"
+  },
+  {
+    "slug": "Neonatal-Bay-Isolation-Room-Negaitive-Pressure-",
+    "name": "Neonatal Bay - Isolation Room - Negaitive Pressure",
+    "code": "NB-IS-N-I"
+  },
+  {
+    "slug": "Neonatal-Bay-Isolation-Room-Positive-Pressure",
+    "name": "Neonatal Bay - Isolation Room - Positive Pressure",
+    "code": "NB-IS-P-I"
+  },
+  {
+    "slug": "Neonatal-Bay-Intensive-Care",
+    "name": "Neonatal Bay - Intensive Care",
+    "code": "NBICU-I"
+  },
+  {
+    "slug": "Neonatal-Bay-Special-Care",
+    "name": "Neonatal Bay - Special Care",
+    "code": "NBSC-I"
+  },
+  {
+    "slug": "Observation-Room-",
+    "name": "Observation Room",
+    "code": "OBS-I"
+  },
+  {
+    "slug": "Office-2-Person-Shared-",
+    "name": "Office - 2 Person Shared",
+    "code": "OFF-2P-I"
+  },
+  {
+    "slug": "Office-3-Person-Shared-",
+    "name": "Office - 3 Person Shared",
+    "code": "OFF-3P-I"
+  },
+  {
+    "slug": "Office-4-Person-Shared",
+    "name": "Office - 4 Person Shared",
+    "code": "OFF-4P-I"
+  },
+  {
+    "slug": "Office-CEO-",
+    "name": "Office - CEO",
+    "code": "OFF-CEO-I"
+  },
+  {
+    "slug": "Office-Clinical-Handover-",
+    "name": "Office - Clinical/ Handover",
+    "code": "OFF-CLN-I"
+  },
+  {
+    "slug": "Office-Clinical-Workroom",
+    "name": "Office - Clinical Workroom",
+    "code": "OFF-CLW-I"
+  },
+  {
+    "slug": "Office-Executive",
+    "name": "Office - Executive",
+    "code": "OFF-EXEC-I"
+  },
+  {
+    "slug": "Office-Single-Person-12m2-",
+    "name": "Office - Single Person, 12m2",
+    "code": "OFF-S12-I"
+  },
+  {
+    "slug": "Office-Single-Person-9m2-",
+    "name": "Office - Single Person, 9m2",
+    "code": "OFF-S9-I"
+  },
+  {
+    "slug": "Office-Workstation",
+    "name": "Office - Workstation",
+    "code": "OFF-WS-I"
+  },
+  {
+    "slug": "Office-Workstation-Shared-3m2",
+    "name": "Office - Workstation - Shared, 3m2",
+    "code": "OFF-WS3-I"
+  },
+  {
+    "slug": "Office-Write-up-1m2-",
+    "name": "Office - Write-up, 1m2",
+    "code": "OFF-WI-1-I"
+  },
+  {
+    "slug": "Viewing-and-Reporting-12m2",
+    "name": "Viewing and Reporting, 12m2",
+    "code": "VR-12-I"
+  },
+  {
+    "slug": "Occupational-Therapy-Room-50m2",
+    "name": "Occupational Therapy Room, 50m2",
+    "code": "OCT-50-I"
+  },
+  {
+    "slug": "Office-Clinical-Write-up-Bay-5-m2",
+    "name": "Office - Clinical Write-up Bay, 5 m2",
+    "code": "OFF-CWI-5-I"
+  },
+  {
+    "slug": "Office-Write-up-6m2",
+    "name": "Office - Write-up, 6m2",
+    "code": "OFF-WI-6-I"
+  },
+  {
+    "slug": "Office-Write-up-3m2",
+    "name": "Office - Write-up, 3m2",
+    "code": "OFF-WI-3-I"
+  },
+  {
+    "slug": "Office-Write-up-Shared-12m2-",
+    "name": "Office - Write-up (Shared), 12m2",
+    "code": "OFF-WIS-I"
+  },
+  {
+    "slug": "Overnight-Stay-Bedroom-10m2",
+    "name": "Overnight Stay - Bedroom, 10m2",
+    "code": "OVBR-10-I"
+  },
+  {
+    "slug": "Overnight-Stay-Ensuite-4m2",
+    "name": "Overnight Stay - Ensuite, 4m2",
+    "code": "OVES-4-I"
+  },
+  {
+    "slug": "PABX-Room",
+    "name": "PABX Room",
+    "code": "PABX-I"
+  },
+  {
+    "slug": "PACS-Storage-and-Viewing",
+    "name": "PACS Storage and Viewing",
+    "code": "PACS-I"
+  },
+  {
+    "slug": "Pantry-",
+    "name": "Pantry",
+    "code": "PTRY-I"
+  },
+  {
+    "slug": "Pantry-Super-VIP-",
+    "name": "Pantry - Super VIP",
+    "code": "PTRY-SVIP-I"
+  },
+  {
+    "slug": "Parenting-Room-6m2-",
+    "name": "Parenting Room, 6m2",
+    "code": "PAR-I"
+  },
+  {
+    "slug": "Pathology-Laboratory-Module-",
+    "name": "Pathology Laboratory Module",
+    "code": "PTHLB-MOD-I"
+  },
+  {
+    "slug": "Patient-Bay-Acute-Treatment-12m2",
+    "name": "Patient Bay - Acute Treatment, 12m2",
+    "code": "PBTR-A12-I"
+  },
+  {
+    "slug": "Patient-Bay-HDU-20m2",
+    "name": "Patient Bay - HDU - 20m2",
+    "code": "PB-HDU-20-I"
+  },
+  {
+    "slug": "Patient-Bay-Holding-10m2-",
+    "name": "Patient Bay - Holding, 10m2",
+    "code": "PBTR-H-10-I"
+  },
+  {
+    "slug": "Pharmacotherapy-Unit-Courtyard-",
+    "name": "Pharmacotherapy Unit - Courtyard",
+    "code": "PHCO-CTYD-I"
+  },
+  {
+    "slug": "Patient-Bay-Holding-Enclosed-12m2-",
+    "name": "Patient Bay - Holding, Enclosed, 12m2",
+    "code": "PBHE-12-I"
+  },
+  {
+    "slug": "Patient-Bay-Non-Acute-Treatment-10m2-",
+    "name": "Patient Bay - Non Acute Treatment, 10m2",
+    "code": "PBTR-NA-I"
+  },
+  {
+    "slug": "Pharmacotherapy-Unit-Dosing",
+    "name": "Pharmacotherapy Unit - Dosing",
+    "code": "PHCO-DOS-I"
+  },
+  {
+    "slug": "Pharmacotherapy-Unit-Toilet-Patient-",
+    "name": "Pharmacotherapy Unit - Toilet (Patient)",
+    "code": "PHCO-WCP-I"
+  },
+  {
+    "slug": "Set-up-Room-12m2-",
+    "name": "Set-up Room, 12m2",
+    "code": "SETUP-12-I"
+  },
+  {
+    "slug": "Patient-Bay-Non-Acute-Treatment-12m2",
+    "name": "Patient Bay - Non Acute Treatment, 12m2",
+    "code": "PBTR-NA-12-I"
+  },
+  {
+    "slug": "Patient-Bay-Recovery-Stage-1-9m2-",
+    "name": "Patient Bay - Recovery Stage 1, 9m2",
+    "code": "PBTR-RS1-9-I"
+  },
+  {
+    "slug": "PET-CT-Control-Room",
+    "name": "PET/ CT - Control Room",
+    "code": "PETCR-I"
+  },
+  {
+    "slug": "Patient-Bay-Resuscitation",
+    "name": "Patient Bay - Resuscitation",
+    "code": "PBTR-R-I"
+  },
+  {
+    "slug": "Patient-Bay-Recovery-Stage-1-12m2-",
+    "name": "Patient Bay - Recovery Stage 1, 12m2",
+    "code": "PBTR-RS1-12-I"
+  },
+  {
+    "slug": "PET-CT-Scanning-Room-",
+    "name": "PET/ CT Scanning Room",
+    "code": "PET-CT-I"
+  },
+  {
+    "slug": "Patient-Chair-Bay-6m2",
+    "name": "Patient Chair Bay, 6m2",
+    "code": "PBC-6-I"
+  },
+  {
+    "slug": "Pharmacy-Counter-",
+    "name": "Pharmacy Counter",
+    "code": "PHA-CO-I"
+  },
+  {
+    "slug": "Pharmacotherapy-Unit-Dispensing",
+    "name": "Pharmacotherapy Unit - Dispensing",
+    "code": "PHCO-DISP-I"
+  },
+  {
+    "slug": "Pharmacotherapy-Unit-Waiting-",
+    "name": "Pharmacotherapy Unit - Waiting",
+    "code": "PHCO-WAIT-I"
+  },
+  {
+    "slug": "Physics-Laboratory-",
+    "name": "Physics Laboratory",
+    "code": "PHLAB-I"
+  },
+  {
+    "slug": "Plaster-Room-14m2-",
+    "name": "Plaster Room, 14m2",
+    "code": "PLST-14-I"
+  },
+  {
+    "slug": "Plaster-Room-16m2-",
+    "name": "Plaster Room, 16m2",
+    "code": "PLST-16-I"
+  },
+  {
+    "slug": "Play-Area-Paediatric-10m2-",
+    "name": "Play Area - Paediatric, 10m2",
+    "code": "PLAP-10-I"
+  },
+  {
+    "slug": "Play-Area-Paediatric-15m2",
+    "name": "Play Area - Paediatric, 15m2",
+    "code": "PLAP-15-I"
+  },
+  {
+    "slug": "Play-Area-Paediatric-20m2",
+    "name": "Play Area - Paediatric, 20m2",
+    "code": "PLAP-20-I"
+  },
+  {
+    "slug": "Podiatry-Treatment-12m2-",
+    "name": "Podiatry Treatment, 12m2",
+    "code": "PODT-12-I"
+  },
+  {
+    "slug": "Podiatry-Treatment-15m2",
+    "name": "Podiatry Treatment, 15m2",
+    "code": "PODT-15-I"
+  },
+  {
+    "slug": "Prayer-Room-",
+    "name": "Prayer Room",
+    "code": "PRAR-20-I"
+  },
+  {
+    "slug": "Preparation-Room-Non-Sterile-Pharmacy-",
+    "name": "Preparation Room - Non Sterile (Pharmacy)",
+    "code": "PREP-I"
+  },
+  {
+    "slug": "Preparation-Set-up-Room-Imaging-",
+    "name": "Preparation/ Set-up Room (Imaging)",
+    "code": "PREP-S-I"
+  },
+  {
+    "slug": "Procedure-Room-20m2-",
+    "name": "Procedure Room, 20m2",
+    "code": "PROC-20-I"
+  },
+  {
+    "slug": "Procedure-Room-25m2-",
+    "name": "Procedure Room, 25m2",
+    "code": "PROC-25-I"
+  },
+  {
+    "slug": "Property-Bay-2m2",
+    "name": "Property Bay, 2m2",
+    "code": "PROP-2-I"
+  },
+  {
+    "slug": "Property-Bay-3m2-",
+    "name": "Property Bay, 3m2",
+    "code": "PROP-3-I"
+  },
+  {
+    "slug": "Property-Bay-6m2-",
+    "name": "Property Bay, 6m2",
+    "code": "PROP-6-I"
+  },
+  {
+    "slug": "Podiatry-Treatment-16m2-",
+    "name": "Podiatry Treatment, 16m2",
+    "code": "PODT-16-I"
+  },
+  {
+    "slug": "Preparation-Room-Unit-Dose",
+    "name": "Preparation Room - Unit Dose",
+    "code": "PREP-UNIT-I"
+  },
+  {
+    "slug": "Radiotherapy-Bunker-",
+    "name": "Radiotherapy Bunker",
+    "code": "RAD-BUNK-I"
+  },
+  {
+    "slug": "Radiotherapy-Bunker-Control-Room-",
+    "name": "Radiotherapy Bunker Control Room",
+    "code": "RAD-BCTR-I"
+  },
+  {
+    "slug": "Radiotherapy-Simulator-Room",
+    "name": "Radiotherapy Simulator Room",
+    "code": "RAD-SIM-I"
+  },
+  {
+    "slug": "Radiotherapy-Treatment-Planning-",
+    "name": "Radiotherapy Treatment Planning",
+    "code": "RAD-TRP-I"
+  },
+  {
+    "slug": "Reception-Clerical-9m2",
+    "name": "Reception/ Clerical, 9m2",
+    "code": "RECL-9-I"
+  },
+  {
+    "slug": "Reception-Clerical-10m2-",
+    "name": "Reception/ Clerical, 10m2",
+    "code": "RECL-10-I"
+  },
+  {
+    "slug": "Reception-Clerical-12m2",
+    "name": "Reception/ Clerical, 12m2",
+    "code": "RECL-12-I"
+  },
+  {
+    "slug": "Reception-Clerical-15m2-",
+    "name": "Reception/ Clerical, 15m2",
+    "code": "RECL-15-I"
+  },
+  {
+    "slug": "Reception-Clerical-20m2",
+    "name": "Reception/ Clerical, 20m2",
+    "code": "RECL-20-I"
+  },
+  {
+    "slug": "Fluoroscopy-Room-",
+    "name": "Fluoroscopy Room",
+    "code": "FLUO-I"
+  },
+  {
+    "slug": "Reception-Emergency-20m2",
+    "name": "Reception (Emergency), 20m2",
+    "code": "REC-E-I"
+  },
+  {
+    "slug": "Reporting-Station",
+    "name": "Reporting Station",
+    "code": "RPST-2-I"
+  },
+  {
+    "slug": "Respiratory-Workroom",
+    "name": "Respiratory Workroom",
+    "code": "REWM-I"
+  },
+  {
+    "slug": "Screening-Room-Fluoroscopy-",
+    "name": "Screening Room (Fluoroscopy)",
+    "code": "SCRN-I"
+  },
+  {
+    "slug": "Scrub-Up-Gowning-6m2-",
+    "name": "Scrub Up/ Gowning, 6m2",
+    "code": "SCRB-6-I"
+  },
+  {
+    "slug": "Scrub-Up-Shared-",
+    "name": "Scrub Up - Shared",
+    "code": "SCRBS-I"
+  },
+  {
+    "slug": "Scrub-Up-Gowning-8m2",
+    "name": "Scrub Up / Gowning, 8m2",
+    "code": "SCRB-8-I"
+  },
+  {
+    "slug": "Set-up-Room-16m2-",
+    "name": "Set-up Room, 16m2",
+    "code": "SETUP-16-I"
+  },
+  {
+    "slug": "Seclusion-Room-",
+    "name": "Seclusion Room",
+    "code": "SECL-I"
+  },
+  {
+    "slug": "Security-Room-14m2-",
+    "name": "Security Room, 14m2",
+    "code": "SECR-14-I"
+  },
+  {
+    "slug": "Servery-Trolley-Holding-Mental-Health-",
+    "name": "Servery/ Trolley Holding (Mental Health)",
+    "code": "SERV-MH-I"
+  },
+  {
+    "slug": "Security-Room-10m2-",
+    "name": "Security Room, 10m2",
+    "code": "SECR-10-I"
+  },
+  {
+    "slug": "Set-up-Room-8m2-",
+    "name": "Set-up Room, 8m2",
+    "code": "SETUP-8-I"
+  },
+  {
+    "slug": "Shower-Decontamination",
+    "name": "Shower - Decontamination",
+    "code": "SHDEC-I"
+  },
+  {
+    "slug": "Shower-Accessible-4m2-",
+    "name": "Shower - Accessible, 4m2",
+    "code": "SHD-I"
+  },
+  {
+    "slug": "Shower-Patient-",
+    "name": "Shower - Patient",
+    "code": "SHPT-I"
+  },
+  {
+    "slug": "Store-Mould-Room-",
+    "name": "Store - Mould Room",
+    "code": "ST-MOULD-I"
+  },
+  {
+    "slug": "Store-Sterile-Stock-40m2-",
+    "name": "Store - Sterile Stock, 40m2",
+    "code": "STSS-40-I"
+  },
+  {
+    "slug": "Shower-Staff-3m2-",
+    "name": "Shower - Staff, 3m2",
+    "code": "SHST-3-I"
+  },
+  {
+    "slug": "Specimen-Collection-Bay-9m2-",
+    "name": "Specimen Collection Bay, 9m2",
+    "code": "SPECC-I"
+  },
+  {
+    "slug": "Specimen-Reception-Sort-Preparation",
+    "name": "Specimen Reception/ Sort/ Preparation",
+    "code": "SPREC-I"
+  },
+  {
+    "slug": "Staff-Room-15m2",
+    "name": "Staff Room, 15m2",
+    "code": "SRM-15-I"
+  },
+  {
+    "slug": "Staff-Room-18m2",
+    "name": "Staff Room, 18m2",
+    "code": "SRM-18-I"
+  },
+  {
+    "slug": "Staff-Room-20m2-",
+    "name": "Staff Room, 20m2",
+    "code": "SRM-20-I"
+  },
+  {
+    "slug": "Staff-Room-25m2",
+    "name": "Staff Room, 25m2",
+    "code": "SRM-25-I"
+  },
+  {
+    "slug": "Staff-Room-30m2",
+    "name": "Staff Room, 30m2",
+    "code": "SRM-30-I"
+  },
+  {
+    "slug": "Staff-Room-35m2",
+    "name": "Staff Room, 35m2",
+    "code": "SRM-35-I"
+  },
+  {
+    "slug": "Staff-Station-5m2-",
+    "name": "Staff Station, 5m2",
+    "code": "SSTN-5-I"
+  },
+  {
+    "slug": "Staff-Station-10m2",
+    "name": "Staff Station, 10m2",
+    "code": "SSTN-10-I"
+  },
+  {
+    "slug": "Staff-Station-12m2",
+    "name": "Staff Station, 12m2",
+    "code": "SSTN-12-I"
+  },
+  {
+    "slug": "Staff-Station-14m2",
+    "name": "Staff Station, 14m2",
+    "code": "SSTN-14-I"
+  },
+  {
+    "slug": "Staff-Station-18m2",
+    "name": "Staff Station, 18m2",
+    "code": "SSTN-18-I"
+  },
+  {
+    "slug": "Staff-Station-Clean-Utility-",
+    "name": "Staff Station/ Clean Utility",
+    "code": "SSCU-I"
+  },
+  {
+    "slug": "Staff-Station-Mental-Health-18m2",
+    "name": "Staff Station - Mental Health, 18m2",
+    "code": "SSTN-MH-18-I"
+  },
+  {
+    "slug": "Staff-Station-20m2-",
+    "name": "Staff Station, 20m2",
+    "code": "SSTN-20-I"
+  },
+  {
+    "slug": "Store-Drugs-10m2-",
+    "name": "Store - Drugs, 10m2",
+    "code": "STDR-10-I"
+  },
+  {
+    "slug": "Sterilising-Sterile-Store-Outpatient-Unit",
+    "name": "Sterilising/ Sterile Store - Outpatient Unit",
+    "code": "OPD-SS-I"
+  },
+  {
+    "slug": "SPECT-CT-Scanning-Room-",
+    "name": "SPECT/ CT Scanning Room",
+    "code": "SPECT-CT-I"
+  },
+  {
+    "slug": "SPECT-CT-Control-Room",
+    "name": "SPECT/ CT - Control Room",
+    "code": "SPECTCR-I"
+  },
+  {
+    "slug": "Store-Accountable-Drugs-",
+    "name": "Store - Accountable Drugs",
+    "code": "STAD-I"
+  },
+  {
+    "slug": "Store-Bulk-20m2",
+    "name": "Store - Bulk, 20m2",
+    "code": "STBK-20-I"
+  },
+  {
+    "slug": "Hot-Laboratory-PET-",
+    "name": "Hot Laboratory - PET",
+    "code": "HTLB-PET-I"
+  },
+  {
+    "slug": "Store-Bulk-40m2",
+    "name": "Store - Bulk, 40m2",
+    "code": "STBK-40-I"
+  },
+  {
+    "slug": "Store-Cleaners",
+    "name": "Store - Cleaners",
+    "code": "STCL-I"
+  },
+  {
+    "slug": "Store-Chemical",
+    "name": "Store - Chemical",
+    "code": "STCM-I"
+  },
+  {
+    "slug": "Store-Crutches-",
+    "name": "Store - Crutches",
+    "code": "STCR-I"
+  },
+  {
+    "slug": "Store-Disaster-Equipment-",
+    "name": "Store - Disaster Equipment",
+    "code": "STDE-I"
+  },
+  {
+    "slug": "Store-Drugs-",
+    "name": "Store - Drugs",
+    "code": "STDR-5-I"
+  },
+  {
+    "slug": "Store-Equipment-6m2",
+    "name": "Store - Equipment, 6m2",
+    "code": "STEQ-6-I"
+  },
+  {
+    "slug": "Store-Equipment-10m2-",
+    "name": "Store - Equipment, 10m2",
+    "code": "STEQ-10-I"
+  },
+  {
+    "slug": "Store-Equipment-14m2-",
+    "name": "Store - Equipment, 14m2",
+    "code": "STEQ-14-I"
+  },
+  {
+    "slug": "Dental-Sterilising-Sterile-Store",
+    "name": "Dental Sterilising/ Sterile Store",
+    "code": "DENS-SS-I"
+  },
+  {
+    "slug": "Store-Equipment-15m2",
+    "name": "Store - Equipment, 15m2",
+    "code": "STEQ-15-I"
+  },
+  {
+    "slug": "Feeding-Room-2-Persons-",
+    "name": "Feeding Room - 2 Persons",
+    "code": "FEED-2P-I"
+  },
+  {
+    "slug": "Fluoroscopy-Control-Room",
+    "name": "Fluoroscopy Control Room",
+    "code": "FLUOC-I"
+  },
+  {
+    "slug": "Frozen-Section-",
+    "name": "Frozen Section",
+    "code": "FROZ-RM-I"
+  },
+  {
+    "slug": "Store-Equipment-16m2",
+    "name": "Store - Equipment, 16m2",
+    "code": "STEQ-16-I"
+  },
+  {
+    "slug": "Store-Equipment-20m2",
+    "name": "Store - Equipment, 20m2",
+    "code": "STEQ-20-I"
+  },
+  {
+    "slug": "Store-Equipment-25m2",
+    "name": "Store - Equipment, 25m2",
+    "code": "STEQ-25-I"
+  },
+  {
+    "slug": "Store-Equipment-30m2",
+    "name": "Store - Equipment, 30m2",
+    "code": "STEQ-30-I"
+  },
+  {
+    "slug": "Store-Equipment-40m2",
+    "name": "Store - Equipment, 40m2",
+    "code": "STEQ-40-I"
+  },
+  {
+    "slug": "Store-Equipment-Super-VIP",
+    "name": "Store - Equipment - Super VIP",
+    "code": "STEQ-SVIP-I"
+  },
+  {
+    "slug": "Store-Files-8m2",
+    "name": "Store - Files, 8m2",
+    "code": "STFS-8-I"
+  },
+  {
+    "slug": "Store-Files-10m2",
+    "name": "Store - Files, 10m2",
+    "code": "STFS-10-I"
+  },
+  {
+    "slug": "Store-Files-20m2",
+    "name": "Store - Files, 20m2",
+    "code": "STFS-20-I"
+  },
+  {
+    "slug": "Store-Flammable-Liquid-",
+    "name": "Store - Flammable Liquid",
+    "code": "STFL-I"
+  },
+  {
+    "slug": "Store-Gas-Bottle-Empty",
+    "name": "Store - Gas Bottle, Empty",
+    "code": "STGB-E-I"
+  },
+  {
+    "slug": "Triage-Cubicle",
+    "name": "Triage Cubicle",
+    "code": "CUB-TRI-I"
+  },
+  {
+    "slug": "Store-Gas-Bottle-Full",
+    "name": "Store - Gas Bottle, Full",
+    "code": "STGB-F-I"
+  },
+  {
+    "slug": "Store-General-4m2",
+    "name": "Store - General, 4m2",
+    "code": "STGN-4-I"
+  },
+  {
+    "slug": "Store-General-5m2",
+    "name": "Store - General, 5m2",
+    "code": "STGN-5-I"
+  },
+  {
+    "slug": "Store-General-6m2",
+    "name": "Store - General, 6m2",
+    "code": "STGN-6-I"
+  },
+  {
+    "slug": "Store-General-8m2-",
+    "name": "Store - General, 8m2",
+    "code": "STGN-8-I"
+  },
+  {
+    "slug": "Store-General-9m2",
+    "name": "Store - General, 9m2",
+    "code": "STGN-9-I"
+  },
+  {
+    "slug": "Store-General-10m2",
+    "name": "Store - General, 10m2",
+    "code": "STGN-10-I"
+  },
+  {
+    "slug": "Store-General-12m2",
+    "name": "Store - General, 12m2",
+    "code": "STGN-12-I"
+  },
+  {
+    "slug": "Store-General-14m2-",
+    "name": "Store - General, 14m2",
+    "code": "STGN-14-I"
+  },
+  {
+    "slug": "Store-General-16m2",
+    "name": "Store - General, 16m2",
+    "code": "STGN-16-I"
+  },
+  {
+    "slug": "Store-General-20m2",
+    "name": "Store - General, 20m2",
+    "code": "STGN-20-I"
+  },
+  {
+    "slug": "Store-General-30m2",
+    "name": "Store - General, 30m2",
+    "code": "STGN-30-I"
+  },
+  {
+    "slug": "Store-Loan-Equipment-60m2",
+    "name": "Store - Loan Equipment, 60m2",
+    "code": "STLE-60-I"
+  },
+  {
+    "slug": "Store-Patient-Property-",
+    "name": "Store - Patient Property",
+    "code": "STPP-I"
+  },
+  {
+    "slug": "Store-Photocopy-Stationery-8m2-",
+    "name": "Store - Photocopy/ Stationery, 8m2",
+    "code": "STPS-8-I"
+  },
+  {
+    "slug": "Store-Linen",
+    "name": "Store - Linen",
+    "code": "STLN-4-I"
+  },
+  {
+    "slug": "Store-Photocopy-Stationery-10m2",
+    "name": "Store - Photocopy/ Stationery, 10m2",
+    "code": "STPS-10-I"
+  },
+  {
+    "slug": "Toilet-Public-4m2-",
+    "name": "Toilet - Public, 4m2",
+    "code": "WCPU-4-I"
+  },
+  {
+    "slug": "Store-Records-Active-80m2",
+    "name": "Store - Records (Active), 80m2",
+    "code": "STRS-80-I"
+  },
+  {
+    "slug": "Store-Records-Inactive-60m2-",
+    "name": "Store - Records (Inactive), 60m2",
+    "code": "STRS-60-I"
+  },
+  {
+    "slug": "Store-Sterile-Stock-12m2-",
+    "name": "Store - Sterile Stock, 12m2",
+    "code": "STSS-12-I"
+  },
+  {
+    "slug": "Store-Sterile-Stock-20m2-CSSU-",
+    "name": "Store - Sterile Stock, 20m2 (CSSU)",
+    "code": "STSS-20-I"
+  },
+  {
+    "slug": "Store-Sterile-Stock-24m2",
+    "name": "Store - Sterile Stock, 24m2",
+    "code": "STSS-24-I"
+  },
+  {
+    "slug": "Store-Sterile-Stock-30m2",
+    "name": "Store - Sterile Stock, 30m2",
+    "code": "STSS-30-I"
+  },
+  {
+    "slug": "Store-Sterile-Stock-44m2",
+    "name": "Store - Sterile Stock, 44m2",
+    "code": "STSS-44-I"
+  },
+  {
+    "slug": "Telephone-Operator-",
+    "name": "Telephone Operator",
+    "code": "SWOP-I"
+  },
+  {
+    "slug": "Stress-Testing",
+    "name": "Stress Testing",
+    "code": "STRT-I"
+  },
+  {
+    "slug": "Toilet-Accessible",
+    "name": "Toilet - Accessible",
+    "code": "WCAC-I"
+  },
+  {
+    "slug": "Toilet-Patient-",
+    "name": "Toilet - Patient",
+    "code": "WCPT-I"
+  },
+  {
+    "slug": "Toilet-Public-3m2",
+    "name": "Toilet - Public, 3m2",
+    "code": "WCPU-3-I"
+  },
+  {
+    "slug": "Toilet-Staff-",
+    "name": "Toilet - Staff",
+    "code": "WCST-I"
+  },
+  {
+    "slug": "Treatment-Bay-Chemotherapy-",
+    "name": "Treatment Bay - Chemotherapy",
+    "code": "TRMT-CHE-I"
+  },
+  {
+    "slug": "Treatment-Room-18m2",
+    "name": "Treatment Room, 18m2",
+    "code": "TRMT-18-I"
+  },
+  {
+    "slug": "Treatment-Room",
+    "name": "Treatment Room",
+    "code": "TRMT-14-I"
+  },
+  {
+    "slug": "Treatment-Room-Isolation-Renal-Dialysis",
+    "name": "Treatment Room - Isolation - Renal Dialysis",
+    "code": "TRMT-IS-RD-I"
+  },
+  {
+    "slug": "Treatment-Bay-Renal-Dialysis",
+    "name": "Treatment Bay - Renal Dialysis",
+    "code": "TRMT-RD-I"
+  },
+  {
+    "slug": "Treatment-Room-Secure-Assessment-",
+    "name": "Treatment Room - Secure Assessment",
+    "code": "TRSA-I"
+  },
+  {
+    "slug": "Ultrasound-",
+    "name": "Ultrasound",
+    "code": "ULTR-I"
+  },
+  {
+    "slug": "Treatment-Room-Paediatrics-18m2",
+    "name": "Treatment Room - Paediatrics, 18m2",
+    "code": "TRMT-P-18-I"
+  },
+  {
+    "slug": "Treatment-Room-Paediatrics-",
+    "name": "Treatment Room - Paediatrics",
+    "code": "TRMT-P-I"
+  },
+  {
+    "slug": "Urodynamic-Testing-Room",
+    "name": "Urodynamic Testing Room",
+    "code": "URODY-I"
+  },
+  {
+    "slug": "Volunteers-Workroom-20m2",
+    "name": "Volunteers Workroom, 20m2",
+    "code": "VWR-20-I"
+  },
+  {
+    "slug": "Waiting-10m2-",
+    "name": "Waiting, 10m2",
+    "code": "WAIT-10-I"
+  },
+  {
+    "slug": "Waiting-15m2-",
+    "name": "Waiting, 15m2",
+    "code": "WAIT-15-I"
+  },
+  {
+    "slug": "Waiting-20m2-",
+    "name": "Waiting, 20m2",
+    "code": "WAIT-20-I"
+  },
+  {
+    "slug": "Waiting-25m2",
+    "name": "Waiting, 25m2",
+    "code": "WAIT-25-I"
+  },
+  {
+    "slug": "Waiting-30m2-",
+    "name": "Waiting, 30m2",
+    "code": "WAIT-30-I"
+  },
+  {
+    "slug": "Waiting-50m2",
+    "name": "Waiting, 50m2",
+    "code": "WAIT-50-I"
+  },
+  {
+    "slug": "Waiting-Secure-",
+    "name": "Waiting - Secure",
+    "code": "WAIT-SEC-I"
+  },
+  {
+    "slug": "Waiting-Sub-",
+    "name": "Waiting - Sub",
+    "code": "WAIT-SUB-I"
+  },
+  {
+    "slug": "Wash-up-Room-",
+    "name": "Wash-up Room",
+    "code": "WASH-I"
+  },
+  {
+    "slug": "Water-Treatment-Plant-Room-",
+    "name": "Water Treatment Plant Room",
+    "code": "WTPL-I"
+  },
+  {
+    "slug": "Waste-Compactor-Recyclables",
+    "name": "Waste Compactor/ Recyclables",
+    "code": "WACO-I"
+  },
+  {
+    "slug": "Welding-Booth-",
+    "name": "Welding Booth",
+    "code": "WLB-I"
+  },
+  {
+    "slug": "Workshop-Biomedical-20m2",
+    "name": "Workshop - Biomedical, 20m2",
+    "code": "WS-BM-20-I"
+  },
+  {
+    "slug": "Workshop-Biomedical-",
+    "name": "Workshop - Biomedical",
+    "code": "WS-BM-I"
+  },
+  {
+    "slug": "Workshop-Carpentry",
+    "name": "Workshop - Carpentry",
+    "code": "WK-CA-I"
+  },
+  {
+    "slug": "Workshop-Electrical",
+    "name": "Workshop - Electrical",
+    "code": "WK-EL-I"
+  },
+  {
+    "slug": "Workshop-Fitters-Plumbers",
+    "name": "Workshop - Fitters/ Plumbers",
+    "code": "WK-FP-I"
+  },
+  {
+    "slug": "Workshop-General-Maintenance-",
+    "name": "Workshop - General Maintenance",
+    "code": "WK-GM-I"
+  },
+  {
+    "slug": "Workshop-Mechanical",
+    "name": "Workshop - Mechanical",
+    "code": "WK-MC-I"
+  },
+  {
+    "slug": "Workshop-Mobility-Aids",
+    "name": "Workshop - Mobility Aids",
+    "code": "WK-PDP-I"
+  },
+  {
+    "slug": "Workshop-Plumbing",
+    "name": "Workshop - Plumbing",
+    "code": "WK-PL-I"
+  },
+  {
+    "slug": "Workshop-Prosthetics",
+    "name": "Workshop - Prosthetics",
+    "code": "WK-PRO-I"
+  },
+  {
+    "slug": "Workshop-Store-Gardener-",
+    "name": "Workshop/ Store - Gardener",
+    "code": "WSS-GAR-I"
+  },
+  {
+    "slug": "Operating-Room-C-Section",
+    "name": "Operating Room - C-Section",
+    "code": "OR-CSEC-I"
+  },
+  {
+    "slug": "Operating-Room-CT-Control-",
+    "name": "Operating Room - CT Control",
+    "code": "OR-CTCR-I"
+  },
+  {
+    "slug": "Operating-Room-Cardiac-",
+    "name": "Operating Room - Cardiac",
+    "code": "OR-CA-I"
+  },
+  {
+    "slug": "Operating-Room-General-",
+    "name": "Operating Room - General",
+    "code": "OR-GN-I"
+  },
+  {
+    "slug": "Operating-Room-Hybrid-CT-Scanning-",
+    "name": "Operating Room - Hybrid - CT Scanning",
+    "code": "OR-HY-CT-I"
+  },
+  {
+    "slug": "Operating-Room-Cardiac-60m2",
+    "name": "Operating Room - Cardiac, 60m2",
+    "code": "OR-CA-60-I"
+  },
+  {
+    "slug": "Operating-Room-Hybrid-MRI-Scanning-",
+    "name": "Operating Room - Hybrid - MRI Scanning",
+    "code": "OR-HY-MRI-I"
+  },
+  {
+    "slug": "Operating-Room-Hybrid-Vascular-Cardiac",
+    "name": "Operating Room - Hybrid - Vascular/ Cardiac",
+    "code": "OR-HY-VS-I"
+  },
+  {
+    "slug": "Operating-Room-Large",
+    "name": "Operating Room - Large",
+    "code": "OR-LA-I"
+  },
+  {
+    "slug": "Operating-Room-Minor-",
+    "name": "Operating Room - Minor",
+    "code": "OR-MS-I"
+  },
+  {
+    "slug": "Operating-Room-Robotic",
+    "name": "Operating Room - Robotic",
+    "code": "OR-ROB-I"
+  },
+  {
+    "slug": "Operating-Room-ENT-Ophthalmology-",
+    "name": "Operating Room - ENT/ Ophthalmology",
+    "code": "OR-ENT-OPH-I"
+  },
+  {
+    "slug": "Operating-Room-Orthopaedic-",
+    "name": "Operating Room - Orthopaedic",
+    "code": "OR-ORTH-I"
+  },
+  {
+    "slug": "Operating-Room-Transplant-",
+    "name": "Operating Room - Transplant",
+    "code": "OR-TR-I"
+  },
+  {
+    "slug": "Operating-Room-Neurosurgery-",
+    "name": "Operating Room - Neurosurgery",
+    "code": "OR-NEURO-I"
+  },
+  {
+    "slug": "Workshop-Store-Painters-",
+    "name": "Workshop/ Store - Painters",
+    "code": "WSS-PT-I"
+  },
+  {
+    "slug": "Patient-Bay-Intensive-Care-16m2",
+    "name": "Patient Bay - Intensive Care, 16m2",
+    "code": "PBC-16-I"
+  },
+  {
+    "slug": "Patient-Bay-Intensive-Care-20m2-",
+    "name": "Patient Bay - Intensive Care, 20m2",
+    "code": "PBC-20-I"
+  },
+  {
+    "slug": "Patient-Bay-Intensive-Care-24m2-",
+    "name": "Patient Bay - Intensive Care, 24m2",
+    "code": "PBC-24-I"
+  },
+  {
+    "slug": "Viewing-and-Reporting-Bay-",
+    "name": "Viewing and Reporting Bay",
+    "code": "VRB-6-I"
+  },
+  {
+    "slug": "Bone-Densitometry-",
+    "name": "Bone Densitometry",
+    "code": "BODEN-I"
+  },
+  {
+    "slug": "Operating-Room-General-60m2",
+    "name": "Operating Room - General, 60m2",
+    "code": "OR-GN-60-I"
+  },
+  {
+    "slug": "Operating-Room-Hybrid-Vascular-Cardiac-80m2",
+    "name": "Operating Room - Hybrid - Vascular/ Cardiac, 80m2",
+    "code": "OR-HY-VS-80-I"
+  },
+  {
+    "slug": "Operating-Room-Orthopaedic-60m2",
+    "name": "Operating Room - Orthopaedic, 60m2",
+    "code": "OR-ORTH-60-I"
+  },
+  {
+    "slug": "Operating-Room-Transplant-60m2",
+    "name": "Operating Room - Transplant, 60m2",
+    "code": "OR-TR-60-I"
+  },
+  {
+    "slug": "Operating-Room-ENT-Ophthalmology-60m2",
+    "name": "Operating Room - ENT/ Ophthalmology, 60m2",
+    "code": "OR-ENT-OPH-60-I"
+  },
+  {
+    "slug": "Operating-Room-Robotic-80m2",
+    "name": "Operating Room - Robotic, 80m2",
+    "code": "OR-ROB-80-I"
+  },
+  {
+    "slug": "Neonatal-Bay-Resuscitation",
+    "name": "Neonatal Bay - Resuscitation",
+    "code": "NB-R-I"
+  },
+  {
+    "slug": "Consult-Exam-Room-OB-GYN",
+    "name": "Consult/ Exam Room - OB/ GYN",
+    "code": "CONS-OBGYN-I"
+  },
+  {
+    "slug": "Operating-Room-ENT",
+    "name": "Operating Room - ENT",
+    "code": "OR-ENT-I"
+  },
+  {
+    "slug": "Operating-Room-Ophthalmology",
+    "name": "Operating Room - Ophthalmology",
+    "code": "OR-OPH-I"
+  }
+]
